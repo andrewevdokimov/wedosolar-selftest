@@ -1,4 +1,5 @@
 $("#CTA").click(function(){
+      
 if ($('#Fence-Solid').is(':checked')) {
 $("#test_label0-c33a8f78-4afc-4d98-bbc6-6973340a8d40").attr('selected', 'true').change();
 } else if ($('#Fence-Other').is(':checked')) {
@@ -54,4 +55,4 @@ $("#telephone-c33a8f78-4afc-4d98-bbc6-6973340a8d40").val('1123344555').change();
 $("#hsForm_c33a8f78-4afc-4d98-bbc6-6973340a8d40").submit();
 alert(---);
 
-      });
+});
