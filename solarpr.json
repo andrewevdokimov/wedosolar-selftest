@@ -3,760 +3,1439 @@
     "nr": 1,
     "zip": "52062 52064 52066 52068 52070 52072 52074 52076 52078 52080",
     "region": "Aachen",
-    
-    "namePr": "Richtlinie zur Förderung von Solaranlagen in der Stadt Aachen",
-    "sum": "300 €",
-    
-    "org": "Stadt Aachen",
-    "desc": "Vorlage Rechnung, Zahlungsbeleg, Anmeldebestätigung MaStR, 150-600VA Leistung, keine Gebrauchtgeräte, ggf. Einverständnis des Vermieters, Anschaffung nach 01.01.2022",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Richtlinie zur Förderung von Solaranlagen in der Stadt Aachen",
+    "frderhhe": "300 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Aachen",
+    "bedingungen": "Vorlage Rechnung, Zahlungsbeleg, Anmeldebestätigung MaStR, 150-600VA Leistung, keine Gebrauchtgeräte, ggf. Einverständnis des Vermieters, Anschaffung nach 01.01.2022",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/serviceportal.aachen.de\/suche\/-\/vr-bis-detail\/dienstleistung\/2365361\/show",
-    "url": "https:\/\/www.aachen.de\/DE\/stadt_buerger\/energie\/erneuerbare_energien\/solarkataster\/foerderung_verguetung_kosten\/2022_01_01_SolarFoerderrichtlinie.pdf"
+    "urlinformationen": "https:\/\/www.aachen.de\/DE\/stadt_buerger\/energie\/erneuerbare_energien\/solarkataster\/foerderung_verguetung_kosten\/2022_01_01_SolarFoerderrichtlinie.pdf"
 },
 {
     "nr": 2,
     "zip": 59229,
     "region": "Ahlen",
-    
-    "namePr": "Programm zur Förderung von Stecker-Solar-Geräten der Stadt\nAhlen",
-    "sum": "200 €",
-    
-    "org": "Stadt Ahlen",
-    "desc": "Antrag vor Anschaffung, Vorlage Kopie Personalausweis, Vorlage Rechnung und Zahlungsbeleg binnen 6 Monate, Anmeldebestätigung Netzbetreiber und MaStR, keine Gebrauchtgeräte",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Programm zur Förderung von Stecker-Solar-Geräten der Stadt\nAhlen",
+    "frderhhe": "200 €",
+    "anforderungSolargert": "nur mit DGS-Standard",
+    "frderer": "Stadt Ahlen",
+    "bedingungen": "Antrag vor Anschaffung, Vorlage Kopie Personalausweis, Vorlage Rechnung und Zahlungsbeleg binnen 6 Monate, Anmeldebestätigung Netzbetreiber und MaStR, keine Gebrauchtgeräte",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.ahlen.de\/fileadmin\/pdf\/Bauen_Umwelt\/Klimaschutz\/F%C3%B6rderantrag_Stecker-Solar-Ger%C3%A4t-Update.pdf",
-    "url": "https:\/\/www.ahlen.de\/fileadmin\/pdf\/Bauen_Umwelt\/Klimaschutz\/2022-09_Richtlinie_der_Stadt_Ahlen_zur_F%C3%B6rderung_von_Stecker-Solarger%C3%A4ten.pdf"
+    "urlinformationen": "https:\/\/www.ahlen.de\/fileadmin\/pdf\/Bauen_Umwelt\/Klimaschutz\/2022-09_Richtlinie_der_Stadt_Ahlen_zur_F%C3%B6rderung_von_Stecker-Solarger%C3%A4ten.pdf"
 },
 {
     "nr": 3,
     "zip": 23866,
     "region": "Amt Itzstedt",
-    
-    "namePr": "Förderung der Errichtung von Mini-PVAnlagen",
-    "sum": "50\/100 €",
-    
-    "org": "Amt Itzstedt",
-    "desc": "Antrag vor Anschaffung, Einreichung Rechnungskopie und Zahlungsnachweis, Anmeldung beim Netzbetreiber und der Bundesnetzagentur, Foto spätestens 6 Monate nach Bewilligung, bei Mietern Zustimmung d. Eigentümers",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderung der Errichtung von Mini-PVAnlagen",
+    "frderhhe": "50\/100 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Amt Itzstedt",
+    "bedingungen": "Antrag vor Anschaffung, Einreichung Rechnungskopie und Zahlungsnachweis, Anmeldung beim Netzbetreiber und der Bundesnetzagentur, Foto spätestens 6 Monate nach Bewilligung, bei Mietern Zustimmung d. Eigentümers",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.amt-itzstedt.de\/aktuell\/neues-vom-amt\/foerderprogramm-mini-pv\/antrag-foerderung-mini-pv-02.5.2022.pdf?cid=b41",
-    "url": "https:\/\/www.amt-itzstedt.de\/aktuell\/neues-vom-amt\/foerderprogramm-mini-pv\/richtlinie-amt-itzstedt.pdf?cid=azp"
+    "urlinformationen": "https:\/\/www.amt-itzstedt.de\/aktuell\/neues-vom-amt\/foerderprogramm-mini-pv\/richtlinie-amt-itzstedt.pdf?cid=azp"
 },
 {
     "nr": 4,
     "zip": "61348 61350 61352",
     "region": "Bad Homburg",
-    
-    "namePr": "Bezuschussung von Energiesparmaßnahmen",
-    "sum": "50%, max 200 € je Modul",
-    
-    "org": "Stadt Bad Homburg",
-    "desc": "DGS Standard, max 600Wp, Projekt darf nicht unter 500,- EUR kosten, Kauf erst nach Bewilligung, Installation innerh. 1 Jahr nach Bewilligung, Einreichung Eigentumsnachweis Gebäude oder Einwilligung Eigentümer, Einreichung Nachweis über die Anzahl der Wohneinheiten bei mehr als 2 Wohneinheiten, Einreichung Lageplan, Einreichung Kostenvoranschlag",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Bezuschussung von Energiesparmaßnahmen",
+    "frderhhe": "50%, max 200 € je Modul",
+    "anforderungSolargert": "nur mit DGS-Standard",
+    "frderer": "Stadt Bad Homburg",
+    "bedingungen": "DGS Standard, max 600Wp, Projekt darf nicht unter 500,- EUR kosten, Kauf erst nach Bewilligung, Installation innerh. 1 Jahr nach Bewilligung, Einreichung Eigentumsnachweis Gebäude oder Einwilligung Eigentümer, Einreichung Nachweis über die Anzahl der Wohneinheiten bei mehr als 2 Wohneinheiten, Einreichung Lageplan, Einreichung Kostenvoranschlag",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.bad-homburg.de\/medien\/bindata\/stadtplanung\/Antragsformular_E-Foerderrichtlinie.pdf",
-    "url": "https:\/\/www.bad-homburg.de\/medien\/bindata\/stadtplanung\/Energiesparfoerderrichtlinie_2021.pdf"
+    "urlinformationen": "https:\/\/www.bad-homburg.de\/medien\/bindata\/stadtplanung\/Energiesparfoerderrichtlinie_2021.pdf"
 },
 {
     "nr": 5,
     "zip": 58802,
     "region": "Balve",
-    
-    "namePr": "Förderung Balkonkraftwerke",
-    "sum": "100 €",
-    
-    "org": "Stadt Balve",
-    "desc": "Voraussetzung für die Förderung ist, dass die Anlage noch nicht bestellt und installiert ist und beim Netzbetreiber angezeigt wird.\nInteressenten melden sich bitte bei m.hahn(@)balve.de",
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderung Balkonkraftwerke",
+    "frderhhe": "100 €",
+    "anforderungSolargert": "-",
+    "frderer": "Stadt Balve",
+    "bedingungen": "Voraussetzung für die Förderung ist, dass die Anlage noch nicht bestellt und installiert ist und beim Netzbetreiber angezeigt wird.\nInteressenten melden sich bitte bei m.hahn(@)balve.de",
+    "antragszeitpunkt": "Vor",
     "frderungsantrag": "m.hahn(@)balve.de",
-    
-    
-    "url": "https:\/\/www.balve.de\/wirtschaft-und-bauen\/bauen-und-wohnen\/balkonkraftwerke"
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "urlinformationen": "https:\/\/www.balve.de\/wirtschaft-und-bauen\/bauen-und-wohnen\/balkonkraftwerke"
 },
 {
     "nr": 6,
     "zip": 64625,
     "region": "Bensheim",
-    
-    "namePr": "Förderprogramm Stromspeicher\nund Photovoltaik-Anlagen ",
-    "sum": "250 €",
-    
-    "org": "Stadt Bensheim",
-    "desc": "Zustimmung des Hauseigentümers, Antrag vor Bestellung, Auszahlungsantrag binnen 6 und Anschluss binnen 12 Mon. nach Bewilligung, Vorlage Schlussrechnung, Fotos und Registrierungsbestätigung MaStR",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderprogramm Stromspeicher\nund Photovoltaik-Anlagen ",
+    "frderhhe": "250 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Bensheim",
+    "bedingungen": "Zustimmung des Hauseigentümers, Antrag vor Bestellung, Auszahlungsantrag binnen 6 und Anschluss binnen 12 Mon. nach Bewilligung, Vorlage Schlussrechnung, Fotos und Registrierungsbestätigung MaStR",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.bensheim.de\/fileadmin\/media\/bensheim\/04-Leben-in-Bensheim\/Klimaschutz\/Richtlinie_Foerderprogramm_Stromspeicher_und_PV_21_1.pdf",
-    "url": "https:\/\/www.bensheim.de\/fileadmin\/media\/bensheim\/04-Leben-in-Bensheim\/Klimaschutz\/Richtlinie_Foerderprogramm_Stromspeicher_und_PV_21_1.pdf"
+    "urlinformationen": "https:\/\/www.bensheim.de\/fileadmin\/media\/bensheim\/04-Leben-in-Bensheim\/Klimaschutz\/Richtlinie_Foerderprogramm_Stromspeicher_und_PV_21_1.pdf"
 },
 {
     "nr": 7,
     "zip": 59199,
     "region": "Bönen",
-    
-    "namePr": "Förderung von SteckerSolargeräten bzw. Balkon-Solarmodulen im Gemeindegebiet Bönen",
-    "sum": "100 €",
-    
-    "org": "Regionalverband Ruhr\/Stadt Bönen",
-    "desc": "Nur am Mehrfamilienhaus, Foto und anonymisiertes Kurzinterview, Beantragung bis 31.05., kein Gewerbe, Einreichung Fragebogen+Foto+Rechnungskopie+Konformitätszertifikate",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderung von SteckerSolargeräten bzw. Balkon-Solarmodulen im Gemeindegebiet Bönen",
+    "frderhhe": "100 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Regionalverband Ruhr\/Stadt Bönen",
+    "bedingungen": "Nur am Mehrfamilienhaus, Foto und anonymisiertes Kurzinterview, Beantragung bis 31.05., kein Gewerbe, Einreichung Fragebogen+Foto+Rechnungskopie+Konformitätszertifikate",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.boenen.de\/fileadmin\/media\/dokumente\/FB_III\/SEGU\/Antrag_auf_Gewaehrung_eines_Zuschusses_aus_der_Richtlinie_zur_Foerderung_von_Stecker-Solargeraeten_bzw._Balkon-Solarmodulen_im_Gemeindegebiet_Boenen.pdf",
-    "url": "https:\/\/www.boenen.de\/fileadmin\/media\/dokumente\/FB_III\/SEGU\/Richtlinie_zur_Foerderung_von_Stecker-Solargeraeten_bzw._Balkon-Solarmodulen_im_Gemeindegebiet_Boenen210202.pdf"
+    "urlinformationen": "https:\/\/www.boenen.de\/fileadmin\/media\/dokumente\/FB_III\/SEGU\/Richtlinie_zur_Foerderung_von_Stecker-Solargeraeten_bzw._Balkon-Solarmodulen_im_Gemeindegebiet_Boenen210202.pdf"
 },
 {
     "nr": 8,
     "zip": "53111 53113 53115 53117 53119 53121 53123 53125 53127 53129 53173 53175 53177 53179 53225 53227 53229",
     "region": "Bonn",
-    
-    "namePr": "Förderprogramm Photovoltaik",
-    "sum": "50\/100 €",
-    
-    "org": "Stadt Bonn",
-    "desc": "Vorlage gültiges Angebot über die zu erbringenden Leistungen für den Erwerb und ggf. die Installation, Kauf nach Bewilligung, Inbetriebnahmne binnen 18 Monate nach Bewilligung, Registrierung MaStR, 10 Jahre Betriebsdauer nach Förderung (bei Umzug auch außerhalb der Stadt Bonn)",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderprogramm Photovoltaik",
+    "frderhhe": "50\/100 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Bonn",
+    "bedingungen": "Vorlage gültiges Angebot über die zu erbringenden Leistungen für den Erwerb und ggf. die Installation, Kauf nach Bewilligung, Inbetriebnahmne binnen 18 Monate nach Bewilligung, Registrierung MaStR, 10 Jahre Betriebsdauer nach Förderung (bei Umzug auch außerhalb der Stadt Bonn)",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.bonn.de\/medien-global\/amt-67\/klimaschutz\/FormularFoerderantragPV.pdf",
-    "url": "https:\/\/www.bonn.de\/themen-entdecken\/umwelt-natur\/photovoltaik.php"
+    "urlinformationen": "https:\/\/www.bonn.de\/themen-entdecken\/umwelt-natur\/photovoltaik.php"
 },
 {
     "nr": 9,
     "zip": 34434,
     "region": "Borgentreich",
-    
-    "namePr": "Förderantrag von Stecker-Solar-Anlage\n",
-    "sum": "100 €",
-    
-    "org": "Stadt Borgentreich",
-    "desc": "Anschaffung nach 01.01.2022, Antrag nur online, Vorlage Rechnung und Zahlungsbeleg, Anmeldebestätigung Netzbetreiber und MaStR, kein Gewerbe",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderantrag von Stecker-Solar-Anlage\n",
+    "frderhhe": "100 €",
+    "anforderungSolargert": "nur mit DGS-Standard",
+    "frderer": "Stadt Borgentreich",
+    "bedingungen": "Anschaffung nach 01.01.2022, Antrag nur online, Vorlage Rechnung und Zahlungsbeleg, Anmeldebestätigung Netzbetreiber und MaStR, kein Gewerbe",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.borgentreich.de\/redirect.phtml?extlink=1&La=1&url_fid=2564.496.1",
-    "url": "https:\/\/www.borgentreich.de\/media\/custom\/2564_2455_1.PDF?1655876728"
+    "urlinformationen": "https:\/\/www.borgentreich.de\/media\/custom\/2564_2455_1.PDF?1655876728"
 },
 {
     "nr": 10,
     "zip": "64283 64285 64287 64289 64291 64293 64295 64297",
     "region": "Darmstadt",
-    
-    "namePr": "Förderprogramm Photovoltaik",
-    "sum": "50%, max. 200\/400 €",
-    
-    "org": "Stadt Darmstadt",
-    "desc": "Nur Privathaushalte, Vorlage Rechnung inkl. Leistungsangabe, Anmeldungsbestätigung Netzbetreiber, Registrierungsbestätigung MaStR, ggf. Einwilligung Vermieter, ggf. Zustimmung Denkmalschutzbehörde, EInhaltung der technischen und baulichen Vorgaben des Netzbetreibers",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderprogramm Photovoltaik",
+    "frderhhe": "50%, max. 200\/400 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Darmstadt",
+    "bedingungen": "Nur Privathaushalte, Vorlage Rechnung inkl. Leistungsangabe, Anmeldungsbestätigung Netzbetreiber, Registrierungsbestätigung MaStR, ggf. Einwilligung Vermieter, ggf. Zustimmung Denkmalschutzbehörde, EInhaltung der technischen und baulichen Vorgaben des Netzbetreibers",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.darmstadt.de\/fileadmin\/Bilder-Rubriken\/Leben_in_Darmstadt\/Klimaschutz\/Foerderpragamme\/69-101_Antrag_auf_Bezuschussung_Photovoltaikanlage.pdf",
-    "url": "https:\/\/www.darmstadt.de\/leben-in-darmstadt\/klimaschutz\/foerderprogramme-und-beratungsangebote\/foerderprogramm-photovoltaik"
+    "urlinformationen": "https:\/\/www.darmstadt.de\/leben-in-darmstadt\/klimaschutz\/foerderprogramme-und-beratungsangebote\/foerderprogramm-photovoltaik"
 },
 {
     "nr": 11,
     "zip": "40210 40211 40212 40213 40215 40217 40219 40221 40223 40225 40227 40229 40231 40233 40235 40237 40239 40468 40470 40472 40474 40476 40477 40479 40489 40545 40547 40549 40589 40591 40593 40595 40597 40599 40625 40627 40629",
     "region": "Düsseldorf",
-    
-    "namePr": "Klimafreundliches Wohnen und Arbeiten in Düsseldorf",
-    "sum": "50%, max 700 €",
-    
-    "org": "Stadt Düsseldorf",
-    "desc": "Antrag vor Kauf, Vorlage Zertifikate Wechselrichter UND Module",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Klimafreundliches Wohnen und Arbeiten in Düsseldorf",
+    "frderhhe": "50%, max 700 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Düsseldorf",
+    "bedingungen": "Antrag vor Kauf, Vorlage Zertifikate Wechselrichter UND Module",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.duesseldorf.de\/fileadmin\/Amt19\/umweltamt\/foerderundberatungsprogramme\/klimafreundlichwohnen\/pdf\/20200516_antrag_solarenergie.pdf",
-    "url": "https:\/\/www.duesseldorf.de\/umweltamt\/projekte\/klimafreundliches-wohnen-und-arbeiten.html"
+    "urlinformationen": "https:\/\/www.duesseldorf.de\/umweltamt\/projekte\/klimafreundliches-wohnen-und-arbeiten.html"
 },
 {
     "nr": 13,
     "zip": "91052 91054 91056 91058",
     "region": "Erlangen",
-    
-    "namePr": "CO2-mindernde Maßnahmen am Gebäude und Nachhaltig Bauen",
-    "sum": "50 € je 100W, max. 300 €",
-    
-    "org": "Stadt Erlangen",
-    "desc": "Haus gehört WEG oder gemeinn. Organisation oder hat max. 6 Wohnungen, kein Gewerbe, Anmeldung Netzbetreiber und MaStR, ggf. Bestätigung Einverständnis Vermieter\/WEG",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "CO2-mindernde Maßnahmen am Gebäude und Nachhaltig Bauen",
+    "frderhhe": "50 € je 100W, max. 300 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Erlangen",
+    "bedingungen": "Haus gehört WEG oder gemeinn. Organisation oder hat max. 6 Wohnungen, kein Gewerbe, Anmeldung Netzbetreiber und MaStR, ggf. Bestätigung Einverständnis Vermieter\/WEG",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/erlangen.de\/uwao-api\/faila\/files\/bypath\/Dokumente\/PDF-Formulare\/31_Umweltamt\/Foerderprogramm-CO2-Minderung.pdf",
-    "url": "https:\/\/erlangen.de\/uwao-api\/faila\/files\/bypath\/Dokumente\/Richtlinien\/Foerderrichtlinie-CO2-Minderung.pdf"
+    "urlinformationen": "https:\/\/erlangen.de\/uwao-api\/faila\/files\/bypath\/Dokumente\/Richtlinien\/Foerderrichtlinie-CO2-Minderung.pdf"
 },
 {
     "nr": 14,
     "zip": 65760,
     "region": "Eschborn",
-    
-    "namePr": "Klimaschutzmaßnahmen",
-    "sum": "400 €",
-    
-    "org": "Stadt Eschborn",
-    "desc": "Installation durch Fachbetrieb, Einreichung von Angebot bei Antragsstellung, Installation binnen 1 Jahr nach Bewilligung, Vorlage von Originalrechnung und Rechnungskopie",
-    
-    
-    "url": "https:\/\/www.eschborn.de\/fileadmin\/eschborn\/Bilder\/Rathaus\/Services\/Energiesparmassnahmen\/2020-11-02-Fo%CC%88rderrichtlinie-Klimaschutzma%C3%9Fnahmen-2021-efz.pdf"
+    "status": "laufend",
+    "nameFrderprogramm": "Klimaschutzmaßnahmen",
+    "frderhhe": "400 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Eschborn",
+    "bedingungen": "Installation durch Fachbetrieb, Einreichung von Angebot bei Antragsstellung, Installation binnen 1 Jahr nach Bewilligung, Vorlage von Originalrechnung und Rechnungskopie",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": "Auf Anfrage bei klimaschutz@eschborn.de erhältlich",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "urlinformationen": "https:\/\/www.eschborn.de\/fileadmin\/eschborn\/Bilder\/Rathaus\/Services\/Energiesparmassnahmen\/2020-11-02-Fo%CC%88rderrichtlinie-Klimaschutzma%C3%9Fnahmen-2021-efz.pdf"
 },
 {
     "nr": 15,
     "zip": "79098 79100 79102 79104 79106 79108 79110 79111 79112 79114 79115 79117",
     "region": "Freiburg",
-    
-    "namePr": "Förderprogramm Klimafreundlich Wohnen",
-    "sum": "200 €",
-    
-    "org": "Stadt Freiburg",
-    "desc": "Einreichung einer Kopie der Rechnung des Balkonmoduls inkl. Nachweis des Anschlusses über Wieland Stecker auf Rechnung oder per Foto spätestens 6 Monate nach Installation",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderprogramm Klimafreundlich Wohnen",
+    "frderhhe": "200 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Freiburg",
+    "bedingungen": "Einreichung einer Kopie der Rechnung des Balkonmoduls inkl. Nachweis des Anschlusses über Wieland Stecker auf Rechnung oder per Foto spätestens 6 Monate nach Installation",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.freiburg.de\/pb\/site\/Freiburg\/get\/params_E-1987634213\/1439687\/Antrag_Baustein_3.6_Balkonmodul.pdf",
-    "url": "https:\/\/www.freiburg.de\/pb\/site\/Freiburg\/get\/params_E-1845382922\/1439577\/Foerderrichtlinien_2022_Stromerzeugung.pdf"
+    "urlinformationen": "https:\/\/www.freiburg.de\/pb\/site\/Freiburg\/get\/params_E-1845382922\/1439577\/Foerderrichtlinien_2022_Stromerzeugung.pdf"
 },
 {
     "nr": 16,
     "zip": 26169,
     "region": "Friesoythe",
-    
-    "namePr": "Förderung sog. Balkonkraftwerke",
-    "sum": "200 €",
-
-    "org": "Stadt Friesoythe",
-    "desc": "Anmeldung Netzbetreiber und MaStR",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderung sog. Balkonkraftwerke",
+    "frderhhe": "200 €",
+    "anforderungSolargert": "max 600Wp",
+    "frderer": "Stadt Friesoythe",
+    "bedingungen": "Anmeldung Netzbetreiber und MaStR",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.friesoythe.de\/downloads\/datei\/OTA3MDAzMjY5Oy07L3Vzci9sb2NhbC9odHRwZC92aHRkb2NzL2ZyaWVzb3l0aGUvZnJpZXNveXRoZS9tZWRpZW4vZG9rdW1lbnRlL3JpY2h0bGluaWVfdWViZXJfZGllX2Jlc3RpbW11bmdlbl96dXJfZm9lcmRlcnVuZ19zb2cuX2JhbGtvbmtyYWZ0d2Vya2VfZGVyLi4uLnBkZg%3D%3D",
-    "url": "https:\/\/www.friesoythe.de\/downloads\/datei\/OTA3MDAzMjcwOy07L3Vzci9sb2NhbC9odHRwZC92aHRkb2NzL2ZyaWVzb3l0aGUvZnJpZXNveXRoZS9tZWRpZW4vZG9rdW1lbnRlL2FudHJhZ3Nmb3JtdWxhcl9mb2VyZGVydW5nX2JhbGtvbmtyYWZ0d2Vyay5wZGY%3D"
+    "urlinformationen": "https:\/\/www.friesoythe.de\/downloads\/datei\/OTA3MDAzMjcwOy07L3Vzci9sb2NhbC9odHRwZC92aHRkb2NzL2ZyaWVzb3l0aGUvZnJpZXNveXRoZS9tZWRpZW4vZG9rdW1lbnRlL2FudHJhZ3Nmb3JtdWxhcl9mb2VyZGVydW5nX2JhbGtvbmtyYWZ0d2Vyay5wZGY%3D"
 },
 {
     "nr": 17,
     "zip": "45879 45881 45883 45884 45886 45888 45889 45891 45892 45894 45896 45897 45899",
     "region": "Gelsenkirchen",
-    
-    "namePr": "Förderung von Photovoltaik-Anlagen",
-    "sum": "100 €",
-    
-    "org": "Regionalverband Ruhr\/Stadt Gelsenkirchen",
-    "desc": "Nachweis in Form einer Eigenerklärung \/ Konformitätserklärung des Herstellers bzw. Verkäufers über die Erfüllung der gesetzlichen und normativen Anforderungen zur Produktsicherheit (z.B. CE-Kennzeichnung, Netzanschlussnorm 4105, DGS-Sicherheitsstandard)",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderung von Photovoltaik-Anlagen",
+    "frderhhe": "100 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Regionalverband Ruhr\/Stadt Gelsenkirchen",
+    "bedingungen": "Nachweis in Form einer Eigenerklärung \/ Konformitätserklärung des Herstellers bzw. Verkäufers über die Erfüllung der gesetzlichen und normativen Anforderungen zur Produktsicherheit (z.B. CE-Kennzeichnung, Netzanschlussnorm 4105, DGS-Sicherheitsstandard)",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.gelsenkirchen.de\/de\/_meta\/buergerservice\/datenschutz.aspx?anhangID=1840",
-    "url": "https:\/\/www.gelsenkirchen.de\/de\/_meta\/buergerservice\/anhang\/1839-202204_frl_pv.pdf"
+    "urlinformationen": "https:\/\/www.gelsenkirchen.de\/de\/_meta\/buergerservice\/anhang\/1839-202204_frl_pv.pdf"
 },
 {
     "nr": 18,
     "zip": "06108 06110 06112 06114 06116 06118 06120 06122 06124 06126 06128 06130 06132",
     "region": "Halle (Westfalen)",
-    
-    "namePr": "Förderung privater Photovoltaikanlagen",
-    "sum": "200 €",
-    
-    "org": "Stadt Halle (Westfalen)",
-    "desc": "Antrag vor Beauftragung, Vorlage Mietvertrag inkl. Nachweis über Balkon, Vorlage Rechnung, Vorlage Rechnung Wieland-Stecker+Steckdose",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderung privater Photovoltaikanlagen",
+    "frderhhe": "200 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Halle (Westfalen)",
+    "bedingungen": "Antrag vor Beauftragung, Vorlage Mietvertrag inkl. Nachweis über Balkon, Vorlage Rechnung, Vorlage Rechnung Wieland-Stecker+Steckdose",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.hallewestfalen.de\/downloads\/datei\/OTAwMDA3NDkyOy07L3Vzci9sb2NhbC9odHRwZC92aHRkb2NzL2hhbGxld2VzdGZhbGVuL2hhbGxld2VzdGZhbGVuL21lZGllbi9kb2t1bWVudGUvYW50cmFnc2Zvcm11bGFyX3B2X2ZvZXJkZXJ1bmdfXzFfXy5wZGY%3D",
-    "url": "https:\/\/www.hallewestfalen.de\/downloads\/datei\/OTAwMDA3NDkxOy07L3Vzci9sb2NhbC9odHRwZC92aHRkb2NzL2hhbGxld2VzdGZhbGVuL2hhbGxld2VzdGZhbGVuL21lZGllbi9kb2t1bWVudGUvcmljaHRsaW5pZV9kZXJfc3RhZHRfaGFsbGVfd2VzdGYuX3p1cl9mb2VyZGVydW5nX3ByaXZhdGVyX3Bob3Rvdm9sdGFpa2FubGFnZW5fXzFfXy5wZGY%3D"
+    "urlinformationen": "https:\/\/www.hallewestfalen.de\/downloads\/datei\/OTAwMDA3NDkxOy07L3Vzci9sb2NhbC9odHRwZC92aHRkb2NzL2hhbGxld2VzdGZhbGVuL2hhbGxld2VzdGZhbGVuL21lZGllbi9kb2t1bWVudGUvcmljaHRsaW5pZV9kZXJfc3RhZHRfaGFsbGVfd2VzdGYuX3p1cl9mb2VyZGVydW5nX3ByaXZhdGVyX3Bob3Rvdm9sdGFpa2FubGFnZW5fXzFfXy5wZGY%3D"
 },
 {
     "nr": 19,
     "zip": 82211,
     "region": "Herrsching",
-    
-    "namePr": "Förderung von Energiesparmaßnahmen",
-    "sum": "100 € je Modul",
-    
-    "org": "Stadt Herrsching",
-    "desc": "min. 300W, Einreichung Zertifikate Wechselrichter, min. 8 Jahre Betrieb.",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderung von Energiesparmaßnahmen",
+    "frderhhe": "100 € je Modul",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Herrsching",
+    "bedingungen": "min. 300W, Einreichung Zertifikate Wechselrichter, min. 8 Jahre Betrieb.",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.herrsching.de\/files\/2021\/Internet\/2021_02\/Richtlinien_Energiesparmassnahmen_Stand20210101_Antrag.pdf",
-    "url": "https:\/\/www.herrsching.de\/files\/2020\/Internet\/2020_12\/Richtlinien_Energiesparmassnahmen_Stand20210101_600dpi.pdf"
+    "urlinformationen": "https:\/\/www.herrsching.de\/files\/2020\/Internet\/2020_12\/Richtlinien_Energiesparmassnahmen_Stand20210101_600dpi.pdf"
 },
 {
     "nr": 20,
     "zip": 64739,
     "region": "Höchst i. Odw.",
-    
-    "namePr": "Förderung von Stecker-Solaranlagen",
-    "sum": "50 € (30-450W) \/ 100 € (450-600W)",
-    
-    "org": "Stadt Höchst i.Odw.",
-    "desc": "Vorlage Kopie der Rechnung, Nachweis DGS-Sicherheitsstandard, Foto der installierten Anlage, ggf. Erlaubnis der Vermieterin\/des Vermieters, Nachweise über die Anmeldung im Marktstammregister der Bundesnetzagentur und beim lokalen Netzbetreiber.",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderung von Stecker-Solaranlagen",
+    "frderhhe": "50 € (30-450W) \/ 100 € (450-600W)",
+    "anforderungSolargert": "nur mit DGS-Standard",
+    "frderer": "Stadt Höchst i.Odw.",
+    "bedingungen": "Vorlage Kopie der Rechnung, Nachweis DGS-Sicherheitsstandard, Foto der installierten Anlage, ggf. Erlaubnis der Vermieterin\/des Vermieters, Nachweise über die Anmeldung im Marktstammregister der Bundesnetzagentur und beim lokalen Netzbetreiber.",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.hoechst-i-odw.de\/buergerinformation\/buergerinformation\/foerderung-von-steckersolaranlagen\/antragsformular-stecker-solaranlagen.pdf?cid=bf1",
-    "url": "https:\/\/www.hoechst-i-odw.de\/buergerinformation\/buergerinformation\/foerderung-von-steckersolaranlagen\/richtlinie-zur-foerderung-von-stecker-solaranlagen.pdf?cid=bey"
+    "urlinformationen": "https:\/\/www.hoechst-i-odw.de\/buergerinformation\/buergerinformation\/foerderung-von-steckersolaranlagen\/richtlinie-zur-foerderung-von-stecker-solaranlagen.pdf?cid=bey"
 },
 {
     "nr": 21,
     "zip": "50667 50668 50670 50672 50674 50676 50677 50678 50679 50733 50735 50737 50739 50765 50767 50769 50823 50825 50827 50829 50858 50859 50931 50933 50935 50937 50939 50968 50969 50996 50997 50999 51061 51063 51065 51067 51069 51103 51105 51107 51109 51143 51145 51147 51149",
     "region": "Köln",
-    
-    "namePr": "Förderung Photovoltaik-Anlage",
-    "sum": "250 € je kW",
-    
-    "org": "Stadt Köln",
-    "desc": "Vor Bewilligung: Antrag auf Förderung, Ausgefülltes Formular \"Energie\", Angebot, Angaben zu der installierten Leistung, Zertifikate IEC 61215\/EN 61215 bzw. IEC 61646\/EN 61646 und SLK II\/EN 61730, Produktdatenblätter zu den Modulen und Wechselrichtern; Nach Bewilligung: Inbetriebnahmeprotokoll eines Fachbetriebes, Rechnung(en)",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderung Photovoltaik-Anlage",
+    "frderhhe": "250 € je kW",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Köln",
+    "bedingungen": "Vor Bewilligung: Antrag auf Förderung, Ausgefülltes Formular \"Energie\", Angebot, Angaben zu der installierten Leistung, Zertifikate IEC 61215\/EN 61215 bzw. IEC 61646\/EN 61646 und SLK II\/EN 61730, Produktdatenblätter zu den Modulen und Wechselrichtern; Nach Bewilligung: Inbetriebnahmeprotokoll eines Fachbetriebes, Rechnung(en)",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/foerdermittel.stadt-koeln.de\/oa?fp=1401001#zonlineapplication-maintain",
-    "url": "https:\/\/www.stadt-koeln.de\/mediaasset\/content\/pdf57\/altbausanierung\/stadt-koeln_checkliste-infoblatt_photovoltaikanlage.pdf"
+    "urlinformationen": "https:\/\/www.stadt-koeln.de\/mediaasset\/content\/pdf57\/altbausanierung\/stadt-koeln_checkliste-infoblatt_photovoltaikanlage.pdf"
 },
 {
     "nr": 22,
     "zip": "55422 55413 55425 55424 55411 55457 55576 55459 55218 55262 55263 55435 55437 55578 55262 55263 55271 55257 55268 55270 67586 55296 67585 67587 55294 55283 55299 67583 55276 55278",
     "region": "Kreis Mainz-Bingen",
-    
-    "namePr": "Förderhöhe für ein oder mehrere PV Plugin Steckdosenmodule",
-    "sum": "20%, max 400 €",
-    
-    "org": "Kreisverwaltung Mainz-Bingen",
-    "desc": "1. Antrag vor Beauftragung inkl. Ausweiskopie, 2. Antrag nach Abschluss unter Vorlage Rechnungen, Datenblätter und DGS-Zertifikat",
-    
-    
-    
-
+    "status": "laufend",
+    "nameFrderprogramm": "Förderhöhe für ein oder mehrere PV Plugin Steckdosenmodule",
+    "frderhhe": "20%, max 400 €",
+    "anforderungSolargert": "nur mit DGS-Standard",
+    "frderer": "Kreisverwaltung Mainz-Bingen",
+    "bedingungen": "1. Antrag vor Beauftragung inkl. Ausweiskopie, 2. Antrag nach Abschluss unter Vorlage Rechnungen, Datenblätter und DGS-Zertifikat",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "Ab 2023 neuer Fördertopf",
     "urlantrag": "https:\/\/www.mainz-bingen.de\/default-wAssets\/docs\/Bauen-Energie-Umwelt\/Umwelt-und-Energieberatungszentrum\/Klimaschutz\/Foerderung\/KLIMAFIT-DURCHSTARTEN\/Antragsformular-KLIMAFIT-Durchstarten_ausfuellbar.pdf",
-    "url": "https:\/\/www.mainz-bingen.de\/default-wAssets\/docs\/Bauen-Energie-Umwelt\/Umwelt-und-Energieberatungszentrum\/Klimaschutz\/Foerderung\/KLIMAFIT-DURCHSTARTEN\/2021_02_22_Foerderrichtlinie_KLIMAFIT-Durchstarten_final.pdf"
+    "urlinformationen": "https:\/\/www.mainz-bingen.de\/default-wAssets\/docs\/Bauen-Energie-Umwelt\/Umwelt-und-Energieberatungszentrum\/Klimaschutz\/Foerderung\/KLIMAFIT-DURCHSTARTEN\/2021_02_22_Foerderrichtlinie_KLIMAFIT-Durchstarten_final.pdf"
 },
 {
     "nr": 23,
     "zip": 35633,
     "region": "Lahnau",
-    
-    "namePr": "Förderprogramm von Balkon-Solarstromanlagen",
-    "sum": "100 € für 300W, 200 € für 600W",
-    
-    "org": "Gemeinde Lahnau",
-    
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderprogramm von Balkon-Solarstromanlagen",
+    "frderhhe": "100 € für 300W, 200 € für 600W",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Gemeinde Lahnau",
+    "bedingungen": "-",
+    "antragszeitpunkt": "k.A.",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.lahnau.de\/media\/custom\/2996_1504_1.PDF?1642689653",
-    "url": "https:\/\/www.lahnau.de\/media\/custom\/2996_1504_1.PDF?1642689653"
+    "urlinformationen": "https:\/\/www.lahnau.de\/media\/custom\/2996_1504_1.PDF?1642689653"
 },
 {
     "nr": 24,
     "zip": "59555 59556 59557 59558",
     "region": "Lippstadt",
     "status": "in Vorbereitung",
-    "namePr": "Förderung von Stecker-Solaranlagen",
-    "sum": 200,
-    
-    "org": "Stadt Lippstadt",
-    
-    
-    
-    
+    "nameFrderprogramm": "Förderung von Stecker-Solaranlagen",
+    "frderhhe": 200,
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Lippstadt",
+    "bedingungen": "-",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.lippstadt.de\/stadtraum\/gruenes-lippstadt\/klimaschutz-und-energieberatung\/energieberatung-der-stadt-lippstadt\/strom-vom-balkon\/",
-    "url": "https:\/\/www.lippstadt.de\/fileadmin\/user_upload\/Medien_Stadtraum\/RL_Stecker-Solar_final.pdf"
+    "urlinformationen": "https:\/\/www.lippstadt.de\/fileadmin\/user_upload\/Medien_Stadtraum\/RL_Stecker-Solar_final.pdf"
 },
 {
     "nr": 25,
     "zip": "79539 79540 79541",
     "region": "Lörrach",
     "status": "in Vorbereitung",
-    "namePr": "Förderung Balkonsolaranlagen",
-    "sum": "200 €",
-    
-    "org": "Stadt Lörrach",
-    
-    
-    
-    
+    "nameFrderprogramm": "Förderung Balkonsolaranlagen",
+    "frderhhe": "200 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Lörrach",
+    "bedingungen": "-",
+    "antragszeitpunkt": "k.A.",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.loerrach.de\/balkonsolaranlagen",
-    "url": "https:\/\/www.loerrach.de\/balkonsolaranlagen"
+    "urlinformationen": "https:\/\/www.loerrach.de\/balkonsolaranlagen"
 },
 {
     "nr": 26,
     "zip": "58507 58509 58511 58513 58515",
     "region": "Lüdenscheid",
-    
-    "namePr": "Energiespar-Programm",
-    "sum": "200 €",
-    
-    "org": "Stadtwerke Lüdenscheid",
-    "desc": "Abschluss eines Stromvertrags (Digital Strom, KlimaFair Strom oder Gas), Installation durch Fachbetrieb, Anmeldung bei Netzbetreiber",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Energiespar-Programm",
+    "frderhhe": "200 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadtwerke Lüdenscheid",
+    "bedingungen": "Abschluss eines Stromvertrags (Digital Strom, KlimaFair Strom oder Gas), Installation durch Fachbetrieb, Anmeldung bei Netzbetreiber",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.stadtwerke-luedenscheid.de\/privatkunden\/kundenservice\/teilnahme-energiesparprogramm\/",
-    "url": "https:\/\/www.stadtwerke-luedenscheid.de\/privatkunden\/kundenservice\/energiesparprogramm\/#faq-solar"
+    "urlinformationen": "https:\/\/www.stadtwerke-luedenscheid.de\/privatkunden\/kundenservice\/energiesparprogramm\/#faq-solar"
 },
 {
     "nr": 27,
     "zip": "???",
     "region": "Main Taunus Kreis",
-    
-    "namePr": "Förderung privater steckerfertiger Balkon- bzw. Mini-Solarmodule",
-    "sum": "100 €",
-    
-    "org": "Kreisverwaltung MTK",
-    "desc": "kein Gewerbe, Vorlage von Zertifikaten, Vorlage Rechnung, ggf. Zustimmung des Vermieters bzw. der WEG, Anmeldebestätigung d. Netzbetreibers, Auszug MaStR, Foto",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderung privater steckerfertiger Balkon- bzw. Mini-Solarmodule",
+    "frderhhe": "100 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Kreisverwaltung MTK",
+    "bedingungen": "kein Gewerbe, Vorlage von Zertifikaten, Vorlage Rechnung, ggf. Zustimmung des Vermieters bzw. der WEG, Anmeldebestätigung d. Netzbetreibers, Auszug MaStR, Foto",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.mtk.org\/statics\/ds_doc\/downloads\/Mini-PVmodul_Antrag.pdf",
-    "url": "https:\/\/www.mtk.org\/statics\/ds_doc\/downloads\/Mini-PVmodul_Richtlinie.pdf"
+    "urlinformationen": "https:\/\/www.mtk.org\/statics\/ds_doc\/downloads\/Mini-PVmodul_Richtlinie.pdf"
 },
 {
     "nr": 28,
     "zip": "85368 88422\t 84529",
     "region": "Moosburg",
-    
-    "namePr": "Förderprogramm - Solarstrom\/Photovoltaik",
-    "sum": "50%, max. 200 €",
-    
-    "org": "Stadt Moosburg",
-    "desc": "Einreichung von Rechnung, Kopie Personalausweis und Inbetriebnahmeprotokoll binnen 6 Mon. nach Inbetriebnahme",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderprogramm - Solarstrom\/Photovoltaik",
+    "frderhhe": "50%, max. 200 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Moosburg",
+    "bedingungen": "Einreichung von Rechnung, Kopie Personalausweis und Inbetriebnahmeprotokoll binnen 6 Mon. nach Inbetriebnahme",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.moosburg.de\/antrag-moosburger-solarfoerderung-pv",
-    "url": "https:\/\/www.moosburg.de\/foerderprogramm-fuer-solarstrom-nav"
+    "urlinformationen": "https:\/\/www.moosburg.de\/foerderprogramm-fuer-solarstrom-nav"
 },
 {
     "nr": 29,
     "zip": "80331 80333 80335 80336 80337 80339 80469 80538 80539 80634 80636 80637 80638 80639 80686 80687 80689 80796 80797 80798 80799 80801 80802 80803 80804 80805 80807 80809 80933 80935 80937 80939 80992 80993 80995 80997 80999 81241 81243 81245 81247 81249 81369 81371 81373 81375 81377 81379 81475 81476 81477 81479 81539 81541 81543 81545 81547 81549 81667 81669 81671 81673 81675 81677 81679 81735 81737 81739 81825 81827 81829 81925 81927 81929 85356",
     "region": "München",
-    
-    "namePr": "Münchner Förderprogramm Klimaneutrale Gebäude",
-    "sum": "0,4€ je W, bis 600W je Wohneinheit, jedoch max. 50 % der förderfähigen Investitionskosten",
-    "org": "Stadt München",
-    "desc": "Antrag vor Kauf, Anschluss binnen 1 Jahr, keine Gebrauchtgeräte, Einreichung Rechnungskopie und Selbsterklärung",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Münchner Förderprogramm Klimaneutrale Gebäude",
+    "frderhhe": "0,4€ je W, bis 600W je Wohneinheit, jedoch max. 50 % der förderfähigen Investitionskosten",
+    "anforderungSolargert": "max. 600W",
+    "frderer": "Stadt München",
+    "bedingungen": "Antrag vor Kauf, Anschluss binnen 1 Jahr, keine Gebrauchtgeräte, Einreichung Rechnungskopie und Selbsterklärung",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/foerderung.muenchen.de\/Startpage.do",
-    "url": "https:\/\/stadt.muenchen.de\/dam\/jcr:1632b2bd-07de-41b9-a434-318c77b939d3\/FKG-Richtlinie_2022-10-04.pdf"
+    "urlinformationen": "https:\/\/stadt.muenchen.de\/dam\/jcr:1632b2bd-07de-41b9-a434-318c77b939d3\/FKG-Richtlinie_2022-10-04.pdf"
 },
 {
     "nr": 30,
     "zip": "48143 48145 48147 48149 48151 48153 48155 48157 48159 48161 48163 48165 48167",
     "region": "Münster",
-    
-    "namePr": "Klimafreundliche Wohngebäude",
-    "sum": "300 € je kWH",
-    
-    "org": "Stadt Münster",
-    
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Klimafreundliche Wohngebäude",
+    "frderhhe": "300 € je kWH",
+    "anforderungSolargert": "k.A.",
+    "frderer": "Stadt Münster",
+    "bedingungen": "k.A.",
+    "antragszeitpunkt": "k.A.",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.stadt-muenster.de\/klima\/foerderprogramm\/photovoltaik",
-    "url": "https:\/\/www.stadt-muenster.de\/klima\/foerderprogramm\/photovoltaik"
+    "urlinformationen": "https:\/\/www.stadt-muenster.de\/klima\/foerderprogramm\/photovoltaik"
 },
 {
     "nr": 31,
     "zip": "66538 66539 66540",
     "region": "Neunkirchen (Siegerland)",
-    
-    "namePr": "Förderung Stecker-Solar-Gerät",
-    "sum": "30%, max. 150 €",
-
-    "org": "Gemeinde Neunkirchen",
-    "desc": "Antrag nach Inbetriebnahme, Einreichung bis 31.12., Vorlage Rechnung, Nachweis Netz- und Anlagenschutz (NA-Schutz-Zertifikat AR-N-4105), Abschließende Einreichung der \"Bescheinigung über den Erhalt von Fördermitteln\"",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderung Stecker-Solar-Gerät",
+    "frderhhe": "30%, max. 150 €",
+    "anforderungSolargert": "bis 600W",
+    "frderer": "Gemeinde Neunkirchen",
+    "bedingungen": "Antrag nach Inbetriebnahme, Einreichung bis 31.12., Vorlage Rechnung, Nachweis Netz- und Anlagenschutz (NA-Schutz-Zertifikat AR-N-4105), Abschließende Einreichung der \"Bescheinigung über den Erhalt von Fördermitteln\"",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/formular.kdz-ws.net\/administrationCenter\/Form-Solutions\/05970036-0000\/consent?redirectId=d3a1d4a0-e3ad-424f-828a-1be0e36482bf&releaseCacheId=27a13cc3-1d85-4a97-9a51-c9ee32165068",
-    "url": "https:\/\/www.neunkirchen-siegerland.de\/media\/custom\/3362_444_1.PDF?1642163406"
+    "urlinformationen": "https:\/\/www.neunkirchen-siegerland.de\/media\/custom\/3362_444_1.PDF?1642163406"
 },
 {
     "nr": 32,
     "zip": "46045 46047 46049 46117 46119 46145 46147 46149",
     "region": "Oberhausen",
-    
-    "namePr": "Förderung Stecker-Solaranlagen",
-    "sum": "100 €",
-    
-    "org": "Regionalverband Ruhr\/Stadt Oberhausen",
-    "desc": "Nur am Mehrfamilienhaus, Foto und anonymisiertes Kurzinterview, Beantragung bis 31.05., kein Gewerbe, Einreichung Fragebogen+Foto+Rechnungskopie+Konformitätszertifikate",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderung Stecker-Solaranlagen",
+    "frderhhe": "100 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Regionalverband Ruhr\/Stadt Oberhausen",
+    "bedingungen": "Nur am Mehrfamilienhaus, Foto und anonymisiertes Kurzinterview, Beantragung bis 31.05., kein Gewerbe, Einreichung Fragebogen+Foto+Rechnungskopie+Konformitätszertifikate",
+    "antragszeitpunkt": "k.A.",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.oberhausen.de\/klimaschutz.php?STab=3&j=2020&m=4",
-    "url": "https:\/\/www.oberhausen.de\/de\/index\/rathaus\/verwaltung\/stadtplanung-bauen-mobilitat-umwelt\/umwelt\/klimaschutz_und_energie\/beratung_erneuerbare-energie.php"
+    "urlinformationen": "https:\/\/www.oberhausen.de\/de\/index\/rathaus\/verwaltung\/stadtplanung-bauen-mobilitat-umwelt\/umwelt\/klimaschutz_und_energie\/beratung_erneuerbare-energie.php"
 },
 {
     "nr": 33,
     "zip": 61440,
     "region": "Oberursel (Taunus)",
-    
-    "namePr": "Förderung der Errichtung von Photovoltaikanlagen",
-    "sum": "60 € je 250W, max. 120 €",
-    
-    "org": "Stadt Oberursel",
-    "desc": "Lageplan des Grundstücks, Grundbuchauszug, ggf. Mietvertrag, Anlagenbeschreibung mit Skizze, Angabe Modulleistung, Kostenschätzung, ggf. Angebot",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderung der Errichtung von Photovoltaikanlagen",
+    "frderhhe": "60 € je 250W, max. 120 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Oberursel",
+    "bedingungen": "Lageplan des Grundstücks, Grundbuchauszug, ggf. Mietvertrag, Anlagenbeschreibung mit Skizze, Angabe Modulleistung, Kostenschätzung, ggf. Angebot",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.oberurselimdialog.de\/_files\/ugd\/a6b3b0_2d5d3a37b7964263920a84611680a74d.pdf",
-    "url": "https:\/\/www.oberurselimdialog.de\/_files\/ugd\/a6b3b0_7372e406b3304f07ac55bfa42fd728da.pdf"
+    "urlinformationen": "https:\/\/www.oberurselimdialog.de\/_files\/ugd\/a6b3b0_7372e406b3304f07ac55bfa42fd728da.pdf"
 },
 {
     "nr": 34,
     "zip": "26121 26122 26123 26125 26127 26129 26131 26133 26135",
     "region": "Oldenburg",
-    
-    "namePr": "Förderprogramm Photovoltaik",
-    "sum": "300 €",
-    
-    "org": "Stadt Oldenburg",
-    "desc": "Nachweis Registrierung Marktstammdatenregister, Anmeldung Netzbetreiber",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderprogramm Photovoltaik",
+    "frderhhe": "300 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Oldenburg",
+    "bedingungen": "Nachweis Registrierung Marktstammdatenregister, Anmeldung Netzbetreiber",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "Ab 2023 wieder Fördermittel",
     "urlantrag": "https:\/\/www.oldenburg.de\/pv-foerderung",
-    "url": "https:\/\/www.oldenburg.de\/pv-foerderung"
+    "urlinformationen": "https:\/\/www.oldenburg.de\/pv-foerderung"
 },
 {
     "nr": 35,
     "zip": "66953 66954 66955",
     "region": "Pirmasens",
-    
-    "namePr": "Förderung Balkonkraftwerk",
-    "sum": "150 €",
-    
-    "org": "Stadtwerke Pirmasens",
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderung Balkonkraftwerk",
+    "frderhhe": "150 €",
+    "anforderungSolargert": "k.A.",
+    "frderer": "Stadtwerke Pirmasens",
+    "bedingungen": "k.A.",
     "frderungsantrag": "k.A.",
-    
-    
-    "url": "https:\/\/www.rheinpfalz.de\/lokal\/pirmasens_artikel,-stadtwerke-geben-zusch%C3%BCsse-f%C3%BCr-balkonkraftwerke-_arid,5374539.html?reduced=true"
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "urlinformationen": "https:\/\/www.rheinpfalz.de\/lokal\/pirmasens_artikel,-stadtwerke-geben-zusch%C3%BCsse-f%C3%BCr-balkonkraftwerke-_arid,5374539.html?reduced=true"
 },
 {
     "nr": 36,
     "zip": "40472 40878 40880 40882 40883 40885",
     "region": "Ratingen",
-    
-    "namePr": "Förderung Steckdosenmodule bzw. Plug-In-Module\/Balkonmodule",
-    "sum": "200 €",
-    
-    "org": "Stadt Ratingen",
-    "desc": "Antrag schriftlich (keine E-Mails), Einreichung Einverständniserklärung Vermieter\/Eigentümergemeinschaft, Kauf nach Bewilligung, Umsetzung im Gebiet der Stadt Ratingen, Weiterbetrieb für mindestens 10 Jahre, Anschluss über Einspeisesteckdose oder fest installiert. Umsetzung und Einreichung folgender Nachweise nach spätestens 12 Monaten: Registrierung MaStR), Fotos, Rechnungskopien bzw. Vertragskopien, Inbetriebnahmeprotokoll.",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderung Steckdosenmodule bzw. Plug-In-Module\/Balkonmodule",
+    "frderhhe": "200 €",
+    "anforderungSolargert": "min. 300Wp",
+    "frderer": "Stadt Ratingen",
+    "bedingungen": "Antrag schriftlich (keine E-Mails), Einreichung Einverständniserklärung Vermieter\/Eigentümergemeinschaft, Kauf nach Bewilligung, Umsetzung im Gebiet der Stadt Ratingen, Weiterbetrieb für mindestens 10 Jahre, Anschluss über Einspeisesteckdose oder fest installiert. Umsetzung und Einreichung folgender Nachweise nach spätestens 12 Monaten: Registrierung MaStR), Fotos, Rechnungskopien bzw. Vertragskopien, Inbetriebnahmeprotokoll.",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.stadt-ratingen.de\/bilder\/70\/klimaschutzprojekt\/Antragsformular_ab_2022-01-01.pdf",
-    "url": "https:\/\/www.stadt-ratingen.de\/bilder\/70\/klimaschutzprojekt\/Foerderrichtlinie_der_Stadt_Ratingen_fuer_Steckdosenmodule_ab_2022-01-27.pdf"
+    "urlinformationen": "https:\/\/www.stadt-ratingen.de\/bilder\/70\/klimaschutzprojekt\/Foerderrichtlinie_der_Stadt_Ratingen_fuer_Steckdosenmodule_ab_2022-01-27.pdf"
 },
 {
     "nr": 37,
     "zip": "89290 89297\t",
     "region": "Roggenburg",
-    
-    "namePr": "Förderprogramm PV-Kleinstanlagen ",
-    "sum": "100 €",
+    "status": "laufend",
+    "nameFrderprogramm": "Förderprogramm PV-Kleinstanlagen ",
+    "frderhhe": "100 €",
     "anforderungSolargert": "bis 600W",
-    "org": "Gemeinde Roggenburg",
-    
-    
-    
-    
+    "frderer": "Gemeinde Roggenburg",
+    "bedingungen": "k.A.",
+    "antragszeitpunkt": "k.A.",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.roggenburg.de\/anmeldeformular-steckerfertige-erzeugungsanlage",
-    "url": "https:\/\/www.roggenburg.de\/merkblatt-foerderung-pv-kleinstanlagen"
+    "urlinformationen": "https:\/\/www.roggenburg.de\/merkblatt-foerderung-pv-kleinstanlagen"
 },
 {
     "nr": 38,
     "zip": "61191 61381",
     "region": "Rosbach vor der Höhe",
-    
-    "namePr": "Balkon-Photovoltaik-Anlagen",
-    "sum": "200 €",
-    
-    "org": "Gemeinde Rosbach",
-    "desc": "Ggf. Zustimmung d. Hauseigentümers",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Balkon-Photovoltaik-Anlagen",
+    "frderhhe": "200 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Gemeinde Rosbach",
+    "bedingungen": "Ggf. Zustimmung d. Hauseigentümers",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.rosbach-hessen.de\/aktuelles\/pressemeldungen\/2021\/august\/B%C3%BCrgermeister%20Steffen%20Maar%20%C3%BCbergibt%20Gabriele%20Schmidt-Puck%20den%20ersten%20F%C3%B6rderbescheid%20des%20kommunalen%20Programms%20zur%20Bezuschussung%20von%20Balkon-PV-Anlagen.\/20210623-foerderantrag-balkonpvanlagen-final.pdf?cid=c9p",
-    "url": "https:\/\/www.rosbach-hessen.de\/stadt-politik\/stadt\/stadtrecht-satzungen\/richtlinie-zum-foerderprogramm-balkon-photovoltaik-anlagen.pdf?cid=bsp"
+    "urlinformationen": "https:\/\/www.rosbach-hessen.de\/stadt-politik\/stadt\/stadtrecht-satzungen\/richtlinie-zum-foerderprogramm-balkon-photovoltaik-anlagen.pdf?cid=bsp"
 },
 {
     "nr": 39,
     "zip": "70173 70174 70176 70178 70180 70182 70184 70186 70188 70190 70191 70192 70193 70195 70197 70199 70327 70329 70372 70374 70376 70378 70435 70437 70439 70469 70499 70563 70565 70567 70569 70597 70599 70619 70629",
     "region": "Stuttgart",
-    
-    "namePr": "Solaroffensive Balkonmodule",
-    "sum": "100 €",
-    
-    "org": "Stadt Stuttgart",
-    "desc": "Maximal 600Wp Modulleistung, Einverständniserklärung des Hauseigentümers\/der Eigentümergemeinschaft, Antrag vor Beauftragung, Vorlage des Angebots, ggf. weitere techn. Anforderungen",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Solaroffensive Balkonmodule",
+    "frderhhe": "100 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Stuttgart",
+    "bedingungen": "Maximal 600Wp Modulleistung, Einverständniserklärung des Hauseigentümers\/der Eigentümergemeinschaft, Antrag vor Beauftragung, Vorlage des Angebots, ggf. weitere techn. Anforderungen",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.stuttgart.de\/medien\/ibs\/36-kombi-antrag-auf-zuschuesse-balkonmodule.pdf",
-    "url": "https:\/\/www.stuttgart.de\/solaroffensive"
+    "urlinformationen": "https:\/\/www.stuttgart.de\/solaroffensive"
 },
 {
     "nr": 40,
     "zip": 65843,
     "region": "Sulzbach (Taunus)",
-    
-    "namePr": "Zuschüssen zu steckbaren Mini-PV Anlagen \/\nBalkonmodulen",
-    "sum": "200 € je Modul, max. 50%",
-    
-    "org": "Stadt Sulzbach (Taunus)",
-    "desc": "Wieland-Stecker, \"formloser\" Antrag inkl. Bankverbindung Adresse, Angabe ob Eigentümer \/ Mieter, Bestätigung keine Drittförderung, Erklärung Einhaltung aller anzuwendenden Normen, Erklärung über Anerkennung der Richtlinie; Anlagenbeschreibung, Foto WIeland-Stecker, Angebot Fachbetrieb, ggf. Einverständniserklärung Eigentümer; Antrag spät. 8 Wochen nach Installation, Abruf d. Förderung binnen 8 Wo. nach Kauf, Vorlage Rechnung, Zahlungsnachweis, Anmeldebest. Netzbetreiber und MaStR, Betrieb >3 Jahre,",
-    
-    
-    
-    
-    "url": "https:\/\/www.sulzbach-taunus.de\/1\/Aktuelles\/F%C3%B6rderprogramme\/RL%20Balkonmodule%20Stand%2003_11_2021.pdf"
+    "status": "laufend",
+    "nameFrderprogramm": "Zuschüssen zu steckbaren Mini-PV Anlagen \/\nBalkonmodulen",
+    "frderhhe": "200 € je Modul, max. 50%",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Sulzbach (Taunus)",
+    "bedingungen": "Wieland-Stecker, \"formloser\" Antrag inkl. Bankverbindung Adresse, Angabe ob Eigentümer \/ Mieter, Bestätigung keine Drittförderung, Erklärung Einhaltung aller anzuwendenden Normen, Erklärung über Anerkennung der Richtlinie; Anlagenbeschreibung, Foto WIeland-Stecker, Angebot Fachbetrieb, ggf. Einverständniserklärung Eigentümer; Antrag spät. 8 Wochen nach Installation, Abruf d. Förderung binnen 8 Wo. nach Kauf, Vorlage Rechnung, Zahlungsnachweis, Anmeldebest. Netzbetreiber und MaStR, Betrieb >3 Jahre,",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": "formloser Antrag",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "urlinformationen": "https:\/\/www.sulzbach-taunus.de\/1\/Aktuelles\/F%C3%B6rderprogramme\/RL%20Balkonmodule%20Stand%2003_11_2021.pdf"
 },
 {
     "nr": 41,
     "zip": "89073 89075 89077 89079 89081",
     "region": "Ulm",
-    
-    "namePr": "Ulmer Energieförderprogramm",
-    "sum": "250 €",
+    "status": "laufend",
+    "nameFrderprogramm": "Ulmer Energieförderprogramm",
+    "frderhhe": "250 €",
     "anforderungSolargert": "bis 600W",
-    "org": "Stadt Ulm",
-    "desc": "Antrag nach Inbetriebnahme aber max. 8 Wochen nach Rechnungsdatum, nur neue Module, Einreichung Verwendungsnachweis, Bestätigung Anmeldung Netzbetreiber",
-    
-    
-    
+    "frderer": "Stadt Ulm",
+    "bedingungen": "Antrag nach Inbetriebnahme aber max. 8 Wochen nach Rechnungsdatum, nur neue Module, Einreichung Verwendungsnachweis, Bestätigung Anmeldung Netzbetreiber",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.ulm.de\/-\/media\/ulm\/sub\/sub-ii\/downloads\/klima\/2022_02_antragsformular.pdf",
-    "url": "https:\/\/www.ulm.de\/-\/media\/ulm\/sub\/sub-ii\/downloads\/klima\/2022_01_richtlinien.pdf"
+    "urlinformationen": "https:\/\/www.ulm.de\/-\/media\/ulm\/sub\/sub-ii\/downloads\/klima\/2022_01_richtlinien.pdf"
 },
 {
     "nr": 42,
     "zip": 85716,
     "region": "Unterschleißheim",
-    
-    "namePr": "Förderprogramm für Stecker-Solargeräte",
-    "sum": "20%, max 200 €",
-    
-    "org": "Stadt Unterschleißheim",
-    "desc": "kein Gewerbe, Antrag binnen 3 Monate nach Inbetriebnahme, Vorlage von Personalausweis, Rechnung(en), Zahlungsbestätigung o.ä. mit Angabe der verbauten Produkte, Bankverbindung des Antragstellers, Vollständig ausgefüllter und unterschriebener Antrag, Bestätigung der Anmeldung beim Netzbetreiber und im Marktstammdatenregister",
-    
-    
-    
-    "url": "https:\/\/www.unterschleissheim.de\/fileadmin\/dokumente\/Foerderprogramme\/2021\/Merkblatt_-_Foerderprogramm_fuer_Stecker-Solargeraete.pdf"
+    "status": "laufend",
+    "nameFrderprogramm": "Förderprogramm für Stecker-Solargeräte",
+    "frderhhe": "20%, max 200 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Unterschleißheim",
+    "bedingungen": "kein Gewerbe, Antrag binnen 3 Monate nach Inbetriebnahme, Vorlage von Personalausweis, Rechnung(en), Zahlungsbestätigung o.ä. mit Angabe der verbauten Produkte, Bankverbindung des Antragstellers, Vollständig ausgefüllter und unterschriebener Antrag, Bestätigung der Anmeldung beim Netzbetreiber und im Marktstammdatenregister",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": "auf Anfrage bei stadt@ush.bayern.de oder telefonisch unter 089 310 09 0 erhältlich",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "urlinformationen": "https:\/\/www.unterschleissheim.de\/fileadmin\/dokumente\/Foerderprogramme\/2021\/Merkblatt_-_Foerderprogramm_fuer_Stecker-Solargeraete.pdf"
 },
 {
     "nr": 43,
     "zip": 56653,
     "region": "Wehr",
-    
-    "namePr": "SOLAR POWE(h)R",
-    "sum": "100\/200 €",
-    
-    "org": "Stadt Wehr",
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "SOLAR POWE(h)R",
+    "frderhhe": "100\/200 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Wehr",
+    "bedingungen": "k.A.",
+    "antragszeitpunkt": "k.A.",
     "frderungsantrag": "auf Anfrage bei Klimaschutzmanager Sven Geiger 07762\/808505, sven.geiger@wehr.de",
-    
-    
-    "url": "https:\/\/www.badische-zeitung.de\/stadt-wehr-foerdert-mini-photovoltaik-anlagen--210645538.html"
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "urlinformationen": "https:\/\/www.badische-zeitung.de\/stadt-wehr-foerdert-mini-photovoltaik-anlagen--210645538.html"
 },
 {
     "nr": 44,
     "zip": 82362,
     "region": "Weilheim",
-    
-    "namePr": "Zuschüssen für Stecker-Solargeräte",
-    "sum": "25%, max. 200 €",
-    
-    "org": "Stadt Weilheim",
-    "desc": "kein Gewerbe, Vor Kauf: Förderantrag, ggf. Einverständniserklärung des Eigentümers bzw. Beschluss d. WEG, Kostenvoranschlag; Nach Kauf: Auszahlungsantrag, Nachweise Meldung MaStR und Netzbetreiber, Rechnung(en) und Zahlungsbestätigung(en), Einreichung bis 15.12.22, Nutzung min. 5 Jahre lang",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Zuschüssen für Stecker-Solargeräte",
+    "frderhhe": "25%, max. 200 €",
+    "anforderungSolargert": "nur integrierter NA",
+    "frderer": "Stadt Weilheim",
+    "bedingungen": "kein Gewerbe, Vor Kauf: Förderantrag, ggf. Einverständniserklärung des Eigentümers bzw. Beschluss d. WEG, Kostenvoranschlag; Nach Kauf: Auszahlungsantrag, Nachweise Meldung MaStR und Netzbetreiber, Rechnung(en) und Zahlungsbestätigung(en), Einreichung bis 15.12.22, Nutzung min. 5 Jahre lang",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "kommentar": "Läuft zunächst bis Ende 2022",
     "urlantrag": "https:\/\/weilheim.de\/attachments\/article\/9881\/PV-Stecker_Antragssformular_neu.pdf",
-    "url": "https:\/\/weilheim.de\/mein-weilheim\/buergerservice\/rathaus\/stadtverwaltung\/stadtbauamt\/umwelt-und-klimaschutz\/9881-foerderrichtlinie-der-stadt-weilheim-i-ob-zur-gewaehrung-von-zuschuessen-fuer-stecker-solargeraete"
+    "urlinformationen": "https:\/\/weilheim.de\/mein-weilheim\/buergerservice\/rathaus\/stadtverwaltung\/stadtbauamt\/umwelt-und-klimaschutz\/9881-foerderrichtlinie-der-stadt-weilheim-i-ob-zur-gewaehrung-von-zuschuessen-fuer-stecker-solargeraete"
 },
 {
     "nr": 45,
     "zip": 71554,
     "region": "Weissach im Tal",
-    
-    "namePr": "Förderung von PV-Steckdosenanlage bis 600 VA - sog. Balkonmodule",
-    "sum": "100 €",
+    "status": "laufend",
+    "nameFrderprogramm": "Förderung von PV-Steckdosenanlage bis 600 VA - sog. Balkonmodule",
+    "frderhhe": "100 €",
     "anforderungSolargert": "nur Wieland-Stecker",
-    "org": "Stadt Weissach im Tal",
-    "desc": "kein Gewerbe, Einreichung des Angebots bei Beantragung, Kauf und Inbetriebnahme erst nach aber innerhalb 12 Monate nach Bewilligung, Einreichung Verwendungsnachweis innerhalb 6 Mon. nach Bewilligung, inkl. Kopie der Rechnung des Balkonmoduls und Nachweis Wieland Stecker auf Rechnung oder Foto",
-    
-    
-    
+    "frderer": "Stadt Weissach im Tal",
+    "bedingungen": "kein Gewerbe, Einreichung des Angebots bei Beantragung, Kauf und Inbetriebnahme erst nach aber innerhalb 12 Monate nach Bewilligung, Einreichung Verwendungsnachweis innerhalb 6 Mon. nach Bewilligung, inkl. Kopie der Rechnung des Balkonmoduls und Nachweis Wieland Stecker auf Rechnung oder Foto",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.weissach-im-tal.de\/fileadmin\/Dateien\/Foerderung_PV-Steckdosenanlage_bis_600_VA__-_sog._Balkonmodul_-_Antrag.pdf",
-    "url": "https:\/\/www.weissach-im-tal.de\/fileadmin\/Dateien\/Foerderung_PV-Steckdosenanlage_bis_600_VA__-_sog._Balkonmodul_-_Antrag.pdf"
+    "urlinformationen": "https:\/\/www.weissach-im-tal.de\/fileadmin\/Dateien\/Foerderung_PV-Steckdosenanlage_bis_600_VA__-_sog._Balkonmodul_-_Antrag.pdf"
 },
 {
     "nr": 46,
     "zip": "55246 55252 65183 65185 65187 65189 65191 65193 65195 65197 65199 65201 65203 65205 65207",
     "region": "Wiesbaden",
-    
-    "namePr": "Förderprogramm „Solaranlagen“ der Landeshauptstadt Wiesbaden",
-    "sum": "300 €",
-    
-    "org": "Stadt Wiesbaden",
-    "desc": "Einreichung von Angebot und Bestätigung von Eigentümergemeinschaft (Gemeinschaftseigentum) oder Hausverwaltung (Mietverhältnis) vor Anschaffung\/Anschluss sowie Vorlage der Rechnung\/en, des Inbetriebsetzungsprotokolls mit dem Netzbetreiber und eines Verwendungsnachweises, in dem der beauftragte Fachbetrieb die fachgerechte Durchführung bestätigt",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderprogramm „Solaranlagen“ der Landeshauptstadt Wiesbaden",
+    "frderhhe": "300 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Wiesbaden",
+    "bedingungen": "Einreichung von Angebot und Bestätigung von Eigentümergemeinschaft (Gemeinschaftseigentum) oder Hausverwaltung (Mietverhältnis) vor Anschaffung\/Anschluss sowie Vorlage der Rechnung\/en, des Inbetriebsetzungsprotokolls mit dem Netzbetreiber und eines Verwendungsnachweises, in dem der beauftragte Fachbetrieb die fachgerechte Durchführung bestätigt",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.wiesbaden.de\/medien-zentral\/dok\/leben\/umwelt-naturschutz\/wi-pv-foe-antrag_2020-01-04.pdf",
-    "url": "https:\/\/www.wiesbaden.de\/medien-zentral\/dok\/leben\/umwelt-naturschutz\/WI_Foerderrichtlinie_PV_2019.pdf"
+    "urlinformationen": "https:\/\/www.wiesbaden.de\/medien-zentral\/dok\/leben\/umwelt-naturschutz\/WI_Foerderrichtlinie_PV_2019.pdf"
 },
 {
     "nr": 47,
     "zip": "17033 17034 17035 17036 17039 17087 17089 17091 17094 17098 17099 17109 17111 17121 17126 17129 17139 17153 17154 17159 17166 17168 17179 17192 17192 17193 17194 17207 17209 17213 17214 17217 17218 17219 17235 17237 17248 17252 17255 17258 17309 17321 17321 17322 17328 17329 17335 17337 17348 17349 17358 17367 17373 17375 17379 17389 17390 17391 17392 17392 17398 17406 17419 17429 17438 17440 17449 17454 17459 17489 17493 17495 17498 17506 17509 18055 18059 18069 18107 18181 18182 18184 18190 18195 18196 18198 18209 18209 18211 18225 18230 18233 18236 18239 18246 18249 18258 18273 18276 18279 18292 18299 18311 18314 18317 18320 18334 18337 18347 18356 18374 18375 18435 18439 18442 18445 18461 18465 18469 18507 18510 18513 18516 18519 18528 18546 18551 18556 18565 18569 18573 18574 18581 18586 18609 19053 19063 19065 19067 19069 19071 19071 19073 19073 19073 19075 19075 19077 19079 19086 19089 19205 19205 19217 19209 19217 19230 19243 19246 19249 19258 19260 19273 19288 19294 19294 19300 19300 19303 19306 19357 19357 19372 19370 19374 19376 19386 19395 19399 19406 19412 19417 23923 23936 23948 23942 23946 23966 23996 23968 23970 23970 23972 23974 23992  23996 23999",
     "region": "Mecklenburg Vorpommern",
-    
-    "namePr": "Zuwendungen für steckerfertige PV-Anlagen",
-    "sum": "500 €",
-    
-    "org": "Ministerium für Klima­schutz, Landwirt­schaft, ländliche Räume und Umwelt Mecklenburg-Vorpommern",
-    "desc": "- Anträge sind erst nach Kauf und Installation der PV-Anlage zu stellen\n- Es werden nur PV-Anlagen mit Kaufdatum nach dem 07.11.2022 bei der Bewilligung berücksichtigt\n- Gemäß Antragsformular Ziffer 2.1 ist nur die Seriennummer vom Wechselrichter einzutragen",
-    
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Zuwendungen für steckerfertige PV-Anlagen",
+    "frderhhe": "500 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Ministerium für Klima­schutz, Landwirt­schaft, ländliche Räume und Umwelt Mecklenburg-Vorpommern",
+    "bedingungen": "- Anträge sind erst nach Kauf und Installation der PV-Anlage zu stellen\n- Es werden nur PV-Anlagen mit Kaufdatum nach dem 07.11.2022 bei der Bewilligung berücksichtigt\n- Gemäß Antragsformular Ziffer 2.1 ist nur die Seriennummer vom Wechselrichter einzutragen",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
     "urlantrag": "https:\/\/www.lfi-mv.de\/export\/sites\/lfi\/.galleries\/mini-solaranlagen\/antragsformular-vn-pv-anlagen.pdf",
-    "url": "https:\/\/www.lfi-mv.de\/foerderfinder\/mini-solaranlagen\/"
+    "urlinformationen": "https:\/\/www.lfi-mv.de\/foerderfinder\/mini-solaranlagen\/"
 },
 {
     "nr": 48,
     "zip": "10115 10117 10119 10178 10179 10243 10245 10315 10317 10318 10319 10365 10367 10369 10405 10407 10409 10435 10437 10439 10551 10553 10555 10557 10559 10585 10587 10589 10623 10625 10627 10629 10707 10709 10711 10717 10719 10777 10779 10781 10783 10787 10789 10823 10825 10827 10829 10965 10967 10969 10997 10999 12043 12045 12047 12049 12051 12053 12055 12057 12059 12099 12101 12103 12105 12107 12109 12161 12163 12165 12167 12169 12205 12207 12209 12247 12249 12277 12279 12305 12307 12309 12347 12349 12351 12353 12355 12357 12359 12435 12437 12439 12459 12487 12489 12524 12526 12527 12555 12557 12559 12587 12589 12619 12621 12623 12627 12629 12679 12681 12683 12685 12687 12689 13051 13053 13055 13057 13059 13086 13088 13089 13125 13127 13129 13156 13158 13159 13187 13189 13347 13349 13351 13353 13355 13357 13359 13403 13405 13407 13409 13435 13437 13439 13465 13467 13469 13503 13507 13509 13581 13583 13585 13587 13589 13591 13593 13595 13597 13599 13627 13629 14050 14053 14055 14057 14059 14089 14109 14129 14163 14165 14167 14169 14193 14195 14197 14199",
     "region": "Berlin",
-    
-    "namePr": "Förderung Stecker-Solar-Geräte SolarPLUS",
-    "sum": "500 €",
-    
-    "org": "Berliner Senat",
-    "desc": "Förderungsberechtigt sind alle Mieter:innen mit Erstwohnsitz in Berlin. Das Steckersolargerät darf bei Antragsstellung noch nicht bestellt oder gekauft worden sein.",
-    
-    
+    "status": "laufend",
+    "nameFrderprogramm": "Förderung Stecker-Solar-Geräte SolarPLUS",
+    "frderhhe": "500 €",
+    "anforderungSolargert": "tbd.",
+    "frderer": "Berliner Senat",
+    "bedingungen": "Förderungsberechtigt sind alle Mieter:innen mit Erstwohnsitz in Berlin. Das Steckersolargerät darf bei Antragsstellung noch nicht bestellt oder gekauft worden sein.",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "09.02.23",
     "urlantrag": "https:\/\/ibb-bt-solarplus.antragsverwaltung.de",
-    "url": "https:\/\/www.ibb-business-team.de\/solarplus"
+    "urlinformationen": "https:\/\/www.ibb-business-team.de\/solarplus"
+},
+{
+    "nr": 49,
+    "zip": 71409,
+    "region": "Schwaikheim",
+    "status": "laufend",
+    "frderhhe": "200 €",
+    "anforderungSolargert": "nur mit DGS-Standard",
+    "frderer": "Stadt Schwaikheim",
+    "bedingungen": "DGS-Standard, Antrag spät. 6 Mon. nach Kauf, Vorlage Rechnung, ggf. denkmalschutzrechtliche Genehmigung",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen"
+},
+{
+    "nr": 50,
+    "zip": 8916,
+    "region": "Ulm, Landkreis Neu-Ulm, Biberach, Heidenheim und Alb-Donau-Kreis",
+    "status": "laufend",
+    "frderhhe": "250 €",
+    "anforderungSolargert": "bis 600W",
+    "frderer": "Stadt Ulm",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": "auf Anfrage bei info@manfred-lehner.de oder telefonisch unter 07348 60 64",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen"
+},
+{
+    "nr": 51,
+    "zip": 68623,
+    "region": "Lampertheim",
+    "status": "laufend",
+    "frderhhe": "60%, max 500 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Lampertheim",
+    "bedingungen": "Vorhandensein eines rücklaufgesch. Zählers, kein Gewerbe, wenn Mieter->Einverständnis des Vermieters, Beantragung vor Kauf, Einreichung des Antrags persönlich oder per Post, binnen 6 Mon. nach Bewilligung->Einreichung (persönl. od. postal.) von Verwendungsnachweis, Rechnungen, Zahlungsnachweisen und Fotos vor- und nach Maßnahme.",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen"
+},
+{
+    "nr": 52,
+    "zip": 33415,
+    "region": "Verl",
+    "status": "laufend",
+    "frderhhe": "75€ (bei Speicher zudem 10% de Kosten bis max. 400 €)",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Verl",
+    "bedingungen": "kein Gewerbe, Beantragung vor Kauf und mit Einreichung des Angebots, binnen 12 Mon. nach Installation Vorlage von Rechnung, Inbetriebnahmeprotokoll oder MaStR-Auszug und Foto",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen"
+},
+{
+    "nr": 53,
+    "zip": "33813 33818 32107 32105 32108 32832 32791 33189 32758 32760 32756 32657 32689 32805 32825 32694 32699 32683 32816 32676",
+    "region": "Kreis Lippe",
+    "status": "laufend",
+    "frderhhe": "50-100 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Kreisverwaltung Lippe",
+    "bedingungen": "kein Gewerbe, max. 1 Anlage pro Antragssteller, Beantragung und Genehmigung vor Kauf, Einreichung eines Angebots, kauf innerhalb eines Jahres nach Genehmigung, nach Inbetriebnahme Einreichung der Rechnung, der Anmeldebestätigung beim Netzbetreiber oder Marktstammdatenregister und Foto des Geräts, Gerät muss 3 Jahre im Besitz des Antragsstellers verbleiben",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen"
+},
+{
+    "nr": 54,
+    "zip": 47475,
+    "region": "Kamp-Lintfort",
+    "status": "laufend",
+    "frderhhe": 100,
+    "anforderungSolargert": "beliebig",
+    "frderer": "Regionalverband Ruhr\/Stadt Kamp-Lintfort",
+    "bedingungen": "Nur am Mehrfamilienhaus, Foto und anonymisiertes Kurzinterview, Beantragung bis 31.05., kein Gewerbe, Einreichung Fragebogen+Foto+Rechnungskopie+Konformitätszertifikate",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">nicht veröffentlicht, ggf. auf Anfrage<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen"
+},
+{
+    "nr": 55,
+    "zip": 82362,
+    "region": "Weinheim",
+    "status": "laufend",
+    "frderhhe": "50 € pro Modul (max 2 Module)",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Weinheim",
+    "bedingungen": "Registrierung bei der Förderstelle vor Anschaffung, max. zwei Geräte mit insgesamt 600W",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen"
+},
+{
+    "nr": 57,
+    "zip": 58300,
+    "region": "Wetter (Ruhr)",
+    "status": "laufend",
+    "frderhhe": "unterschiedlich",
+    "anforderungSolargert": "solar-pac (versch. Pakete)",
+    "frderer": "BürgerEnergieGenossenschaft (beg-58)",
+    "bedingungen": "Sammelbestellung",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "Nicht relevant"
+},
+{
+    "nr": 58,
+    "zip": 74206,
+    "region": "Wimpfen",
+    "status": "laufend",
+    "frderhhe": "100 €\/140 € für WiSe-Mitglieder",
+    "anforderungSolargert": "beliebig",
+    "frderer": "WiSe\/Gästehaus Sonne\/Frießinger Mühle",
+    "bedingungen": "Bestellung über www.wise-bw.de bzw. zusätzl. Mitgiedschaft bei WiSe",
+    "frderungsantrag": ">Online-Bestellung<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "Nicht relevant"
+},
+{
+    "nr": 59,
+    "zip": "42103 42105 42107 42109 42111 42113 42115 42117 42119 42275 42277 42279 42281 42283 42285 42287 42289 42327 42329 42349 42369 42389 42399",
+    "region": "Wuppertal",
+    "status": "laufend",
+    "frderhhe": "unterschiedlich",
+    "anforderungSolargert": "S-I-Z (versch. Pakete)",
+    "frderer": "Bergische Energiegenossenschaft (bben)",
+    "bedingungen": "Sammelbestellung",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen"
+},
+{
+    "nr": 60,
+    "zip": "46236 46238 46240 46242 46244",
+    "region": "Bottrop",
+    "status": "abgelaufen",
+    "frderhhe": "100 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Bottrop",
+    "bedingungen": "Vorlage Angebot, Kauf erst nach Bewilligung, wenn DGS-Standard erfüllt, ist auch SCHUKO möglich",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "21.05.21",
+    "kommentar": "Fördertopf ausgeschöpt soll 2023 wieder aufgesetzt werden"
+},
+{
+    "nr": 62,
+    "zip": "33602 33604 33605 33607 33609 33611 33613 33615 33617 33619 33647 33649 33659 33689 33699 33719 33729 33739",
+    "region": "Bielefeld",
+    "status": "abgelaufen",
+    "frderhhe": "150 €",
+    "anforderungSolargert": "nur mit DGS-Standard",
+    "frderer": "Stadt Bielefeld",
+    "bedingungen": "max 600Wp Modulleistung, Anschluss durch Elekrofachbetrieb über Wieland-Stecker, Einhaltung DGS-Sicherheitsstandard, Mieter müssen Einverständnis des Vermieters vorlegen, Wohnungseigentümer den Beschluss der Eigentümergemeinschaft, Förderantrag vor Beauftragung Elekriker, Vorlage Rechnungen sowie Foto von Anlage und Steckverbindung",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": "-",
+    "weitereInformationen": "-",
+    "zuletztGeprft": "05.01.22",
+    "kommentar": "Kein FP zu finden"
+},
+{
+    "nr": 63,
+    "region": "bundesweit",
+    "status": "laufend aber nicht relevant",
+    "frderhhe": 65,
+    "anforderungSolargert": "\"Solarrebell\"",
+    "frderer": "Deutsche Gesellschaft für Sonnenenergie (DGS)",
+    "bedingungen": "Mitgliedschaft",
+    "frderungsantrag": "Rabattcode ist im Sekretariat der DGS Berlin anzufordern.",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "17.01.20",
+    "kommentar": "Nicht für Zunny relevant: SIZ gewährt jedem DGS-Mitglied bei der Bestellung dieses Produktes einen Rabatt von 35 € pro Modul (70,-€ bei einem Paket mit 2 Modulen)."
+},
+{
+    "nr": 64,
+    "zip": "34630 34632 34596 34613 34628 34599 34560 34582 34637 34621 34305 34281 34305 34590 34576 34626 34633 34295 34225 34576 34587 34639 36280 34323 34593 34302 34327 34212 34326 34286",
+    "region": "Kreis Schwalm-Eder",
+    "status": "laufend",
+    "frderhhe": "75€\/Modul, max. 150 €, 50 € bei Installation Energiesteckdose",
+    "anforderungSolargert": "nur neu und im Kreisgebiet erworben, nur Wieland-Stecker oder Festanschluss",
+    "frderer": "Kreisverwaltung Schwalm-Eder",
+    "bedingungen": "kein Gewerbe, nur fertige Pakete, Anmeldung MaStR und Netzbetreiber, Anschluss durch eingetragenen Fachbetrieb aus dem Schwalm-Eder-Kreis, Kaufpreis min. 300 €, Vorlage Rechnung, Konformitätserklärung des Herstellers, Rechnung des Fachbetriebs über Installation, ggf. Einverständnis Vermieter\/WEG, Nachweis MaStR, Nachweis Anmeldung beim Netzbetreiber, Nachweis DGS-Sicherheitsstandards",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen"
+},
+{
+    "nr": 65,
+    "zip": "41539 41540 41541 41542",
+    "region": "Dormagen",
+    "status": "laufend ",
+    "frderhhe": "k.A.",
+    "anforderungSolargert": "k.A.",
+    "frderer": "Stadt Dormagen",
+    "bedingungen": "k.A.",
+    "frderungsantrag": "noch nicht veröffentlicht",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen"
+},
+{
+    "nr": 66,
+    "zip": "48431 48429 48432 48341 48356 48282 48477 48268 48496 48369 49479 49477 49509 49545 49549 49525 49497 49492 49536 49504 48607 48629 48493 48612 48565 48366 48485",
+    "region": "Kreis Steinfurt",
+    "status": "laufend",
+    "frderhhe": "50 € pro Modul (max 2 Module)",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Kreisverwaltung Steinfurt",
+    "bedingungen": "kein Gewerbe, wenn Mieter->Einverständnis des Vermieters, Beantragung vor Errichtung und vor 31.09.2020, Vorlage der Rechnung",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen"
+},
+{
+    "nr": 69,
+    "zip": "44135 44137 44139 44141 44143 44145 44147 44149 44225 44227 44229 44263 44265 44267 44269 44287 44289 44309 44319 44328 44329 44339 44357 44359 44369 44379 44388",
+    "region": "Dortmund",
+    "status": "pausiert",
+    "frderhhe": "100 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Regionalverband Ruhr\/Stadt Dortmund",
+    "bedingungen": "Nur am Mehrfamilienhaus, Foto und anonymisiertes Kurzinterview, Beantragung bis 31.05., kein Gewerbe, Einreichung Fragebogen+Foto+Rechnungskopie+Konformitätszertifikate",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": "-",
+    "weitereInformationen": "-",
+    "zuletztGeprft": "10.01.22",
+    "kommentar": "Ausgeschöpt"
+},
+{
+    "nr": 70,
+    "zip": 59348,
+    "region": "Lüdinghausen",
+    "status": "laufend",
+    "frderhhe": "200 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Lüdinghausen",
+    "bedingungen": "fabrikneues Gerät, Vorlage von Angebot und Antragsformular, Kauf nach Bewilligung, Betrieb für min. 10 Jahre, nur natürliche Personen, Kauf binnen 6 Monaten, Antrag bis 31.12.2021",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen"
+},
+{
+    "nr": 71,
+    "zip": "21335 21337 21339 21391",
+    "region": "Lüneburg",
+    "status": "laufend",
+    "frderhhe": "300 €",
+    "anforderungSolargert": "nur fabrikneue Geräte mit Modulwechselrichter",
+    "frderer": "Hansestadt Lüneburg",
+    "bedingungen": "Antrag vor Beauftragung, Inbetriebnahme bsi 6 Mon. nach Bewilligung, Fest anschluss oder Energiesteckdose, Zweirichtungszähler, Nachweis Anmeldung Netzbetreiber, Angebot eines Fachbetriebs, der die Installation durchführen wird, Nachweis des Fachbetriebs über die Eintragung in der Handwerksrolle, Berechnung der zu erwartenden CO2-Einsparung, Kartenauszug des Grundstücks und Gebäudes mit eingezeichnetem Nord\/Süd-Pfeil, Zeichnungen oder Foto des Gebäudes (Ansicht) mit eingezeichneter Solar-\/PV-Anlage",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen"
+},
+{
+    "nr": 72,
+    "zip": "45657 45659 45661 45663 45665",
+    "region": "Recklinghausen",
+    "status": "laufend",
+    "frderhhe": "100 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Regionalverband Ruhr\/Stadt Recklinghausen",
+    "bedingungen": "Nur am Mehrfamilienhaus, Foto und anonymisiertes Kurzinterview, Beantragung bis 31.05., kein Gewerbe, Einreichung Fragebogen+Foto+Rechnungskopie+Konformitätszertifikate",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen"
+},
+{
+    "nr": 73,
+    "zip": "42853 42855 42857 42859 42897 42899",
+    "region": "Remscheid",
+    "status": "laufend",
+    "frderhhe": "200 €, max 50%",
+    "anforderungSolargert": "min. 500Wp",
+    "frderer": "Stadt Remscheid",
+    "bedingungen": "kein Gewerbe, Installation durch Fachbetrieb, Antragstellung vor Kauf und bis 31.10.2022, Einreichung Kostenvoranschlag, Inbetriebnahme bis 31.12., Einreichung Formblatt und Kontoauszug bis 15.1.2023, Foto und Kurzinterview",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen"
+},
+{
+    "nr": 74,
+    "zip": 47495,
+    "region": "Rheinberg",
+    "status": "laufend",
+    "frderhhe": "100 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Regionalverband Ruhr\/Stadt Rheinberg",
+    "bedingungen": "Nur am Mehrfamilienhaus, Foto und anonymisiertes Kurzinterview, Beantragung bis 31.05., kein Gewerbe, Einreichung Fragebogen+Foto+Rechnungskopie+Konformitätszertifikate",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen",
+    "urlinformationen": "https:\/\/www.rheinberg.de\/C125826D0024B973\/files\/richtlinie_foerderung_steckerpv.pdf\/$file\/richtlinie_foerderung_steckerpv.pdf?OpenElement"
+},
+{
+    "nr": 75,
+    "zip": "53332 53359     53340 53347 51570 53913 53859     53343 53844 53842 53840 53757 53639 53721 53797 53604 53773 53819 53804 53809 53783",
+    "region": "Rhein-Sieg-Kreis",
+    "status": "abgelaufen",
+    "frderhhe": "-",
+    "anforderungSolargert": "-",
+    "frderer": "Rhein-Sieg-Kreis",
+    "bedingungen": "-",
+    "frderungsantrag": "-",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen",
+    "urlinformationen": "https:\/\/www.rhein-sieg-kreis.de\/presseinformationen\/februar\/klimafonds.php"
 },
 {
     "nr": 76,
     "zip": "28195 28197 28199 28201 28203 28205 28207 28209 28211 28213 28215 28217 28219 28237 28239 28259 28277 28279 28307 28309 28325 28327 28329 28355 28357 28359 28717 28719 28755 28757 28759 28777 28779",
     "region": "Bremen\/Bremerhaven",
     "status": "in Vorbereitung",
-    "sum": "-",
-    
-    "org": "Land Bremen",
-    
-    "url": "https:\/\/www.bremische-buergerschaft.de\/dokumente\/wp20\/land\/protokoll\/b20l0035.pdf"
+    "frderhhe": "-",
+    "anforderungSolargert": "-",
+    "frderer": "Land Bremen",
+    "bedingungen": "-",
+    "frderungsantrag": "-",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "in Vorbereitung",
+    "urlinformationen": "https:\/\/www.bremische-buergerschaft.de\/dokumente\/wp20\/land\/protokoll\/b20l0035.pdf"
 },
-
-]
+{
+    "nr": 77,
+    "zip": "33330 33332 33334 33335",
+    "region": "Gütersloh",
+    "status": "in Vorbereitung",
+    "frderhhe": "-",
+    "anforderungSolargert": "-",
+    "frderer": "Stadt Gütersloh",
+    "bedingungen": "-",
+    "frderungsantrag": "-",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen",
+    "urlinformationen": "https:\/\/www.nw.de\/lokal\/kreis_guetersloh\/guetersloh\/22923195_In-Guetersloh-zeichnet-sich-politische-Mehrheit-fuer-Ausbau-der-Photovoltaik-ab.html"
+},
+{
+    "nr": 78,
+    "zip": 45721,
+    "region": "Haltern am See",
+    "status": "laufend",
+    "frderhhe": 100,
+    "anforderungSolargert": "beliebig",
+    "frderer": "Regionalverband Ruhr\/Stadt Haltern am See",
+    "bedingungen": "Nur am Mehrfamilienhaus, Foto und anonymisiertes Kurzinterview, Beantragung bis 31.05., kein Gewerbe, Einreichung Fragebogen+Foto+Rechnungskopie+Konformitätszertifikate",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen",
+    "urlinformationen": "https:\/\/eservice2.gkd-re.de\/bsointer160\/DokumentServlet?dokumentenname=160l4218.pdf"
+},
+{
+    "nr": 80,
+    "zip": "45699 45701",
+    "region": "Herten",
+    "status": "laufend",
+    "frderhhe": "100 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Regionalverband Ruhr\/Stadt Herten",
+    "bedingungen": "Nur am Mehrfamilienhaus, Foto und anonymisiertes Kurzinterview, Beantragung bis 31.05., kein Gewerbe, Einreichung Fragebogen+Foto+Rechnungskopie+Konformitätszertifikate",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen",
+    "urlinformationen": "https:\/\/www.herten.de\/fileadmin\/documents\/herten\/Wirtschaft\/Klima\/Stecker-PV_Foerderung_Richtinie_Herten_neu.pdf"
+},
+{
+    "nr": 81,
+    "zip": 63477,
+    "region": "Maintal",
+    "status": "laufend",
+    "frderhhe": "150 € pro Modul",
+    "anforderungSolargert": "keine Aufdach-Anlage auf Hauptgebäude",
+    "frderer": "Stadt Maintal",
+    "bedingungen": "Vorlage Rechnung, Zustimmung des Vermieters bzw. der WEG, Anmeldebestätigung d. Netzbetreibers, Foto",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen",
+    "urlinformationen": "https:\/\/daten2.verwaltungsportal.de\/dateien\/seitengenerator\/8f74b2a02acb46276bfde4edaf30666b99276\/6.203_hp_klimaschutzfoerderrichtlinie_maintal_2021_m._anl_1.pdf"
+},
+{
+    "nr": 82,
+    "zip": "69254 76316",
+    "region": "Malsch",
+    "status": "laufend",
+    "frderhhe": "50\/75\/100 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Malsch",
+    "bedingungen": "Kauf erst nach Bewilligung, Inbetriebnahme spätestens 3 Monate nach Bewilligung, Vorlage der Konfomitätszertifikate des Wechselrichters",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen",
+    "urlinformationen": "https:\/\/www.malsch.de\/pb\/site\/Malsch\/get\/params_E390805559\/1897287\/Richtlinie%20F%C3%B6rderung%20MiniPV-Anlagen.pdf"
+},
+{
+    "nr": 83,
+    "zip": 87616,
+    "region": "Marktoberdorf",
+    "status": "laufend",
+    "frderhhe": "150 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Marktoberdorf",
+    "bedingungen": "Einreichung Rechnung, Nachweis Anmeldung Netzbetreiber und MaStR, Nachweis Installation durch Elektrofachkraft inkl. VDE-Stecker",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen",
+    "urlinformationen": "https:\/\/www.marktoberdorf.de\/allgemein\/Umweltfoerderprogramm-2022.pdf"
+},
+{
+    "nr": 85,
+    "zip": "47441 47443 47445 47447",
+    "region": "Moers",
+    "status": "laufend",
+    "frderhhe": "100 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Moers",
+    "bedingungen": "Einreichung von Rechnung, Zertifikaten und Foto des Kraftwerks, Anmeldung im Marktstammdatenregister, Anschluss über Energiesteckdose, Leistungsprüfung durch Elektrofachkraft, Zustimmung Vermieter\/WEG, ggf. denkmalschutzrechtliche Genehmigung",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen",
+    "urlinformationen": "https:\/\/www.moers.de\/c125722e0057acf2\/files\/foerderrichtlinie_balkonkraftwerke_in_moers.pdf\/$file\/foerderrichtlinie_balkonkraftwerke_in_moers.pdf?openelement"
+},
+{
+    "nr": 86,
+    "zip": "59302 33378\t",
+    "region": "Ölde",
+    "status": "laufend",
+    "frderhhe": "30% der Kosten, max. 200 €",
+    "anforderungSolargert": "nur mit DGS-Standard",
+    "frderer": "Stadt Ölde",
+    "bedingungen": "Fabrikneu, DGS-Standard, kein Ratenkauf oder Leasing, kein Gewerbe, Kauf nach Bewilligung, Wohnortnachweis, Kauf binnen 6 Mon. nach Bewilligung, Einreichung Rechnung und Quittung\/Kontoauszug, Nachweis Registrierung Marktstammdatenregister, Anmeldung Netzbetreiber, min. 60 Monate Nutzung.",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">nicht veröffentlicht, ggf. auf Anfrage<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen",
+    "urlinformationen": "https:\/\/www.oelde.de\/medien\/leben-in-oelde\/umwelt-klima\/dokumente\/foerderrichtlinie-stecker-pv-stadt-oelde.pdf?cid=1ltp"
+},
+{
+    "nr": 87,
+    "zip": "45468 45470 45472 45473 45475 45476 45478 45479 45481",
+    "region": "Mülheim a. d. Ruhr",
+    "status": "laufend",
+    "frderhhe": "k.A.",
+    "anforderungSolargert": "k.A.",
+    "frderer": "BürgerEnergieGenossenschaft Ruhr-West eG",
+    "bedingungen": "Sammelbestellung",
+    "frderungsantrag": "-",
+    "weitereInformationen": "-",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "Nicht relevant"
+},
+{
+    "nr": 88,
+    "zip": 58730,
+    "region": "Fröndenberg",
+    "status": "laufend",
+    "frderhhe": "100 € pro Modul, max. 200 €",
+    "anforderungSolargert": "k.a.",
+    "frderer": "Gemeinde Fröndenberg",
+    "bedingungen": "noch nicht bekant",
+    "frderungsantrag": "noch nicht veröffentlicht",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen",
+    "urlinformationen": "https:\/\/www.hellwegeranzeiger.de\/froendenberg\/oeko-haushalten-winken-200-euro-zuschuss-fuer-balkon-kraftwerke-w1728963-1000559671\/"
+},
+{
+    "nr": 89,
+    "zip": "45964 45966 45968",
+    "region": "Gladbeck",
+    "status": "abgelaufen",
+    "frderhhe": 100,
+    "anforderungSolargert": "beliebig",
+    "frderer": "Regionalverband Ruhr\/Stadt Gladbeck",
+    "bedingungen": "Nur am Mehrfamilienhaus, Foto und anonymisiertes Kurzinterview, Beantragung bis 31.05., kein Gewerbe, Einreichung Fragebogen+Foto+Rechnungskopie+Konformitätszertifikate",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen",
+    "urlinformationen": "https:\/\/www.gladbeck.de\/Leben_Wohnen\/Klima_in_Gladbeck\/210126_Gladbeck_SteckerPV_F-rderrichtlinie.pdf"
+},
+{
+    "nr": 90,
+    "zip": 68649,
+    "region": "Groß-Rohrheim",
+    "status": "laufend",
+    "frderhhe": "50\/100 €",
+    "anforderungSolargert": "nur mit DGS-Standard",
+    "frderer": "Stadt Groß-Rohrheim",
+    "bedingungen": "kein Gewerbe, Einreichung Rechnungskopie, Anmeldung Netzbetreiber und MaStR, Foto, Mieter: Erlaubnis des Vermieters",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen",
+    "urlinformationen": "https:\/\/publish.cmcitymedia.de\/news\/getFile.php?id=1236616652&id2=1413801&id3=36402&file=71228-1655209622-2.pdf"
+},
+{
+    "nr": 91,
+    "zip": "37073 37075 37077 37079 37081 37083 37085",
+    "region": "Göttingen",
+    "status": "laufend",
+    "frderhhe": "180 €",
+    "anforderungSolargert": "nur Wieland-Stecker",
+    "frderer": "Stadt Göttingen",
+    "bedingungen": "Förderantrag, Kopie der Rechnung, Kontoauszug als Zahlungsnachweis, Ökostromvertrag, Foto\/Lageplan, ggf. Einverständnis Vermieter, ggf. denkmalschutzrechtliche Genehmigung, Anmeldung Netzbetreiber, Registrierung Marktstammdatenregister",
+    "antragszeitpunkt": "Nach",
+    "frderungsantrag": "per Anfrage an klimaschutz@goettingen.de erhältlich",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen",
+    "urlinformationen": "https:\/\/klimaschutz.goettingen.de\/staticsite\/staticsite.php?menuid=48&topmenu=161"
+},
+{
+    "nr": 92,
+    "zip": 63667,
+    "region": "Nidda",
+    "status": "laufend",
+    "frderhhe": "50%, max 100 €",
+    "anforderungSolargert": "bis 600W",
+    "frderer": "Gemeinde Nidda",
+    "bedingungen": "Antrag vor Kauf, Abruf binnen 4 Wochen nach Installation, Vorlage Rechnung, Registrierungsbestätigung Marktstammdatenregister, Fotos",
+    "antragszeitpunkt": "Vor",
+    "frderungsantrag": ">nicht veröffentlicht, ggf. auf Anfrage<",
+    "weitereInformationen": ">Download<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen",
+    "urlinformationen": "https:\/\/www.nidda.de\/leben\/infrastruktur\/klima-umwelt-wasser\/klima\/foerderprogramme\/foerderung-stadt-nidda\/22-rl-pv-beschluss.pdf?cid=fnj"
+},
+{
+    "nr": 93,
+    "zip": "16225 16227 16247 16244 16356",
+    "region": "Eberswalde\/Barnim",
+    "status": "laufend",
+    "frderhhe": "40\/50 €",
+    "anforderungSolargert": "aleo S79_300\/EVT300",
+    "frderer": "Barnimer Energiewandel e.G.",
+    "bedingungen": "Mitgliedschaft",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen",
+    "urlinformationen": "https:\/\/barnimer-energiewandel.de\/angebot-4-unser-balkon-kraftwerk\/"
+},
+{
+    "nr": 94,
+    "zip": 79312,
+    "region": "Emmendingen",
+    "status": "laufend",
+    "frderhhe": "250 €",
+    "anforderungSolargert": "k.A.",
+    "frderer": "Stadt Emmendingen",
+    "bedingungen": "k.A.",
+    "frderungsantrag": "noch nicht veröffentlicht",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen",
+    "urlinformationen": "https:\/\/www.badische-zeitung.de\/run-auf-das-energiehaus-emmendingen-x1x--211045896.html"
+},
+{
+    "nr": 96,
+    "zip": 46509,
+    "region": "Xanten",
+    "status": "laufend",
+    "frderhhe": "100 €",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Regionalverband Ruhr\/Stadt Xanten",
+    "bedingungen": "Nur am Mehrfamilienhaus, Foto und anonymisiertes Kurzinterview, Beantragung bis 31.05., kein Gewerbe, Einreichung Fragebogen+Foto+Rechnungskopie+Konformitätszertifikate",
+    "frderungsantrag": ">Download<",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen",
+    "urlinformationen": "https:\/\/www.xanten.de\/c12570f8004e8139\/files\/foerderrichtlinie_stecker-solar_balkonpv.pdf\/$file\/foerderrichtlinie_stecker-solar_balkonpv.pdf?openelement"
+},
+{
+    "nr": 97,
+    "zip": 82377,
+    "region": "Penzberg",
+    "status": "abgelaufen",
+    "frderhhe": "75€ für 300W, 100 € für 600W",
+    "anforderungSolargert": "beliebig",
+    "frderer": "Stadt Penzberg",
+    "bedingungen": "Foto der Anlage und Vorlage Rechnung",
+    "frderungsantrag": "-",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen"
+},
+{
+    "nr": 98,
+    "zip": "88279 88353 74632\t 79292",
+    "region": "Pfaffenweiler",
+    "status": "laufend",
+    "frderhhe": "150 €",
+    "anforderungSolargert": "nur Wieland-Stecker",
+    "frderer": "Gemeinde Pfaffenweiler",
+    "bedingungen": "Wieland-Stecker, sonst k.A.",
+    "frderungsantrag": "-",
+    "weitereInformationen": ">hier klicken<",
+    "zuletztGeprft": "29.11.22",
+    "kommentar": "ausgelaufen"
+}]
