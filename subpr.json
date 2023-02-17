@@ -42,7 +42,6 @@
     "sum": "100 €",
     "org": "Stadt Balve",
     "desc": "Voraussetzung für die Förderung ist, dass die Anlage noch nicht bestellt und installiert ist und beim Netzbetreiber angezeigt wird.\nInteressenten melden sich bitte bei m.hahn(@)balve.de",
-    "frderungsantrag": "m.hahn(@)balve.de",
     "url": "https:\/\/www.balve.de\/wirtschaft-und-bauen\/bauen-und-wohnen\/balkonkraftwerke"
 },
 {
@@ -353,7 +352,6 @@
     "region": "Ulm",
     "namePr": "Ulmer Energieförderprogramm",
     "sum": "250 €",
-    "anforderungSolargert": "bis 600W",
     "org": "Stadt Ulm",
     "desc": "Antrag nach Inbetriebnahme aber max. 8 Wochen nach Rechnungsdatum, nur neue Module, Einreichung Verwendungsnachweis, Bestätigung Anmeldung Netzbetreiber",
     "url": "https:\/\/www.ulm.de\/-\/media\/ulm\/sub\/sub-ii\/downloads\/klima\/2022_01_richtlinien.pdf"
@@ -407,7 +405,7 @@
     "namePr": "Zuwendungen für steckerfertige PV-Anlagen",
     "sum": "500 €",
     "org": "Ministerium für Klima­schutz, Landwirt­schaft, ländliche Räume und Umwelt Mecklenburg-Vorpommern",
-    "desc": "- Anträge sind erst nach Kauf und Installation der PV-Anlage zu stellen\n- Es werden nur PV-Anlagen mit Kaufdatum nach dem 07.11.2022 bei der Bewilligung berücksichtigt\n- Gemäß Antragsformular Ziffer 2.1 ist nur die Seriennummer vom Wechselrichter einzutragen",
+    "desc": "Anträge sind erst nach Kauf und Installation der PV-Anlage zu stellen\n- Es werden nur PV-Anlagen mit Kaufdatum nach dem 07.11.2022 bei der Bewilligung berücksichtigt\n- Gemäß Antragsformular Ziffer 2.1 ist nur die Seriennummer vom Wechselrichter einzutragen",
     "url": "https:\/\/www.lfi-mv.de\/foerderfinder\/mini-solaranlagen\/"
 },
 {
